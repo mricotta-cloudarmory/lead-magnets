@@ -1,0 +1,614 @@
+{
+  "CE 1": {
+    "rule": "The organization demonstrates a commitment to integrity and ethical values.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "CE 1.1": {
+    "rule": "The organization demonstrates a commitment to integrity and ethical values. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 1.2": {
+    "rule": "The organization demonstrates a commitment to integrity and ethical values. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 1.3": {
+    "rule": "The organization demonstrates a commitment to integrity and ethical values. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 2": {
+    "rule": "The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal control.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "CE 2.1": {
+    "rule": "The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal control. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 2.2": {
+    "rule": "The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal control. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 2.3": {
+    "rule": "The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal control. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 3": {
+    "rule": "Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "CE 3.1": {
+    "rule": "Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 3.2": {
+    "rule": "Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 3.3": {
+    "rule": "Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 4": {
+    "rule": "The organization demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "CE 4.1": {
+    "rule": "The organization demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 4.2": {
+    "rule": "The organization demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 4.3": {
+    "rule": "The organization demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 5": {
+    "rule": "The organization holds individuals accountable for their internal control responsibilities in the pursuit of objectives.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "CE 5.1": {
+    "rule": "The organization holds individuals accountable for their internal control responsibilities in the pursuit of objectives. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 5.2": {
+    "rule": "The organization holds individuals accountable for their internal control responsibilities in the pursuit of objectives. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CE 5.3": {
+    "rule": "The organization holds individuals accountable for their internal control responsibilities in the pursuit of objectives. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 6": {
+    "rule": "The organization specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "RA 6.1": {
+    "rule": "The organization specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 6.2": {
+    "rule": "The organization specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 6.3": {
+    "rule": "The organization specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 7": {
+    "rule": "The organization identifies risks to the achievement of its objectives across the entity and analyzes risks as a basis for determining how the risks should be managed.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "RA 7.1": {
+    "rule": "The organization identifies risks to the achievement of its objectives across the entity and analyzes risks as a basis for determining how the risks should be managed. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 7.2": {
+    "rule": "The organization identifies risks to the achievement of its objectives across the entity and analyzes risks as a basis for determining how the risks should be managed. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 7.3": {
+    "rule": "The organization identifies risks to the achievement of its objectives across the entity and analyzes risks as a basis for determining how the risks should be managed. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 8": {
+    "rule": "The organization considers the potential for fraud in assessing risks to the achievement of objectives.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "RA 8.1": {
+    "rule": "The organization considers the potential for fraud in assessing risks to the achievement of objectives. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 8.2": {
+    "rule": "The organization considers the potential for fraud in assessing risks to the achievement of objectives. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 8.3": {
+    "rule": "The organization considers the potential for fraud in assessing risks to the achievement of objectives. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 9": {
+    "rule": "The organization identifies and assesses changes that could significantly impact the system of internal control.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "RA 9.1": {
+    "rule": "The organization identifies and assesses changes that could significantly impact the system of internal control. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 9.2": {
+    "rule": "The organization identifies and assesses changes that could significantly impact the system of internal control. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "RA 9.3": {
+    "rule": "The organization identifies and assesses changes that could significantly impact the system of internal control. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 10": {
+    "rule": "The organization selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "CA 10.1": {
+    "rule": "The organization selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 10.2": {
+    "rule": "The organization selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 10.3": {
+    "rule": "The organization selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 11": {
+    "rule": "The organization selects and develops general control activities over technology to support the achievement of objectives.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "CA 11.1": {
+    "rule": "The organization selects and develops general control activities over technology to support the achievement of objectives. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 11.2": {
+    "rule": "The organization selects and develops general control activities over technology to support the achievement of objectives. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 11.3": {
+    "rule": "The organization selects and develops general control activities over technology to support the achievement of objectives. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 12": {
+    "rule": "The organization deploys control activities through policies that establish what is expected and procedures that put policies into action.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "CA 12.1": {
+    "rule": "The organization deploys control activities through policies that establish what is expected and procedures that put policies into action. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 12.2": {
+    "rule": "The organization deploys control activities through policies that establish what is expected and procedures that put policies into action. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "CA 12.3": {
+    "rule": "The organization deploys control activities through policies that establish what is expected and procedures that put policies into action. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 13": {
+    "rule": "The organization obtains or generates and uses relevant, quality information to support the functioning of internal control.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "IC 13.1": {
+    "rule": "The organization obtains or generates and uses relevant, quality information to support the functioning of internal control. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 13.2": {
+    "rule": "The organization obtains or generates and uses relevant, quality information to support the functioning of internal control. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 13.3": {
+    "rule": "The organization obtains or generates and uses relevant, quality information to support the functioning of internal control. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 14": {
+    "rule": "The organization internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "IC 14.1": {
+    "rule": "The organization internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 14.2": {
+    "rule": "The organization internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 14.3": {
+    "rule": "The organization internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 15": {
+    "rule": "The organization communicates with external parties regarding matters affecting the functioning of internal control.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "IC 15.1": {
+    "rule": "The organization communicates with external parties regarding matters affecting the functioning of internal control. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 15.2": {
+    "rule": "The organization communicates with external parties regarding matters affecting the functioning of internal control. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "IC 15.3": {
+    "rule": "The organization communicates with external parties regarding matters affecting the functioning of internal control. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "MA 16": {
+    "rule": "The organization selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "MA 16.1": {
+    "rule": "The organization selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "MA 16.2": {
+    "rule": "The organization selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "MA 16.3": {
+    "rule": "The organization selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "MA 17": {
+    "rule": "The organization evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate.",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "MA 17.1": {
+    "rule": "The organization evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate. - Point of focus 1",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "MA 17.2": {
+    "rule": "The organization evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate. - Point of focus 2",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  },
+  "MA 17.3": {
+    "rule": "The organization evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate. - Point of focus 3",
+    "type": "Item",
+    "evidence": [
+      "Code of Conduct policy",
+      "Board meeting minutes referencing ethics or compliance",
+      "CEO or senior leadership communication about ethics"
+    ],
+    "required": true
+  }
+}

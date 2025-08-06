@@ -41,6 +41,30 @@ If you have specific language you want to drive for a specific keyword on your p
 Our compliance kits are primarily managed via Google Drive at the following link.  Google sheets and google docs retain version history, which is a safer method of version control than Github for retaining spreadsheet functionality, especially since spreadsheet files aren't readable in the same format as Git requires.
 https://drive.google.com/drive/folders/1KszvAlJSVBdgs7lwRnrPch1qlQL0zBev?usp=drive_link
 
+To build a kit, follow these steps AFTER you run a Git Pull (always Git pull before you start work):
+
+1. Generate all policy rules and evidence types.  AI can help with that or you can find the source file like we did with PCI.  You can do this in json or csv format as follows below (copy the SOC1 or SOC2 files if you want a template)
+	1. JSON: Rule ID as the row key (ie. { R1.1: {}, R1.1.1: {}, A1.1: {}, A1.2: {}}.  Then, within each rule:
+		1. key:value pair of "rule":"your rule language goes here",
+		2. key:value pair of "type":"Item|Category" *If this is a testable item, call it an Item but if it is a top-level category like 1.1, call it "Category"*
+		3. key:value pair of "evidence":["array","of","evidence"]
+		4. key:bool pair of "required":true|false
+	2. CSV:
+		1. Rule ID (col 1)
+		2. Rule language
+		3. Evidence;semi-colon;delimited;or;"Category"
+		4. Requred "Yes" or "No"
+2. Use the converter script in the "scripts" directory to covert to the other format (see README.md in that directory)
+3. Clone a workbook from another kit in Google Drive.  The workbook framework is the same across all auditable security frameworks.
+4. Import the CSV formatted ruleset file into the "Rules" tab, via the built-in import function, replacing the current sheet.
+5. Now review your tabs, verify for completeness
+6. Clone the README.docx from another kit, update the language and then export it as PDF
+7. Download the kit package, remove the docx file, then zip it and upload it to your lead magnets directory.  Follow the Setup & Lead Gen steps above.
+8. Commit and push your changes
+
+#### NOTE: I would like to move kit storage to S3 via Jenkins pipeline build (git actions).  I want it automated (ci/cd), so Jenkins should pull on Github actions (push/merge) and upload zip files to S3 on a static URL (not dynamic, we wan't the URL to be the same when the file is uploaded and overwrites the old one)
+
+
 ## Scripts / Executables
 
 Security scripts like agent installers are an excellent method for lead generation.  Freemium model scripts provide a way to gain access into client systems.  For example, if we offered ThreatDown for free and drove campaigns for free installation, we'd have immediate internal system visualization of company computers and servers.

@@ -1,268 +1,2061 @@
 {
-"CC 1.1":["The organization demonstrates a commitment to integrity and ethical values","Category"],
-"CC 1.1.1":["Sets the Tone at the Top: The board of directors and management demonstrate through their directives, actions, and behavior the importance of integrity and ethical values to support the funtioning of the system of internal controls. 	List of senior and/or executive management, as well as a list of all members of the Board of Directors  Agendas and meeting minutes from 3 executive and/or board meetings held during the previous 6 months, with sensitve data redacted	Yes"],
-"CC 1.1.":["Establishes Standards of Conduct: The expectations of the board of directors and senior management concerning integirty and ethical values are defined in the organization's standards of conduct and understood at all levels of the organization, as wel as by outsourced service providers and business partners.	Current employee handbook (updated within the last 12 months)  Current Code of Conduct policy (only if not included as part of the employee handbook)  Handbook acknowledgement form (only if not included as part of the employee handbook)	Yes"],
-"CC 1.1.":["Evaluates Adherence to Standards of Conduct: Processes are in place to evaluate individual and team performance against the organization's expected standards of conduct. 	Blank employee performance review or evaluation form	Yes"],
-"CC 1.1.":["Addresses Deviations in a Timely Manner: Deviations from expected standards of conduct are identified and remedied in a timely and consistent manner. 	Disciplinary policies and procedures (only if not included as part of the employee handbook)	Yes"],
-"CC 1.1.":["Considers Contractors and Vendor Employees in Demonstrating its Commitment: Management and the board of directors consider the use of contractors and vendor employees in its processes for establishing standards of conduct, evaluating adherence to standards, and addressing deviations in a timely manner. 	Blank contractor or vendor employee agreement  Contractor or vendor employee new hire procedures	Yes"],
-"CC 1.":["The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal controls.","Category"],
-"CC 1.2.":["Establishes Oversight Responsibilities: The board of directors identifies and accepts its oversight responsibilities in relation to established requirements and expectations. 	Agendas and meeting minutes from 3 executive and/or board meetings held during the previous 6 months, with sensitve data redacted	Yes"],
-"CC 1.2.":["Accepts Relevant Expertise: The board of directors defines, maintains, and periodically evaluates the skills and expertise needed among its members to enable them to ask probing questions of senior management and take commensurate action.	Board of Director bylaws and/or charter	Yes"],
-"CC 1.2.":["Operates Independently: The board of directors has sufficient members who are independent from management and objective in evaluations and decision making. ","A list of all members of the board of directors and biographies, preferably from a published source","Yes"],
-"CC 1.2.":["Supplements Board Expertise: The board of directors supplements its expertise relevant to security, availability, processing integrity, confidentiality, and privacy, as needed, through the use of a subcommittee and/or consultants. ","Listing of organization's committees reporting to the board of directors","Yes"],
-"CC 1.":["Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.","Category"],
-"CC 1.3.":["Considers All Structures of the Entity: Management and the board of directors consider the multiple structures used (including operating units, legal entities, geographic distribution, and outsourced service providers) to support the achievement of objectives. ","Current org chart with date of last revision (must have been updated within the last 12 months)","Yes"],
-"CC 1.3.":["Establishes Reporting Lines: Management designs and evaluates lines of reporting for each entity structure to enable executiion of authorities and responsibilities and flow of information to manage the activities of the entity. ","Evidence that management has reviewed the org chart","Yes"],
-"CC 1.3.":["Defines, Assigns, and Limits Authorities and Responsibilities: Management and the board of directors delegate authority, define responsbilities, and use appropriate processes and technology to assign responsibility and segregate duties as necessary at various levels of the organization.  ","Sample of 5 current job descriptions  Policies or processes for updating job descriptions","Yes"],
-"CC 1.3.":["Addresses Specific Requirements When Defining Authorities and Responsibilities: Management and the board of directors consider requirements relevant to security, availability, processing integrity, confidentiality, and privacy when defining authorities and responsibilities. ","Within job descriptions, show any requirements relevant to security, availability, and confidentiality (if applicable)","Yes"],
-"CC 1.3.":["Considers Interactions With External Parties When Establishing Structures, Reporting Lines, Authorities, and Responsibilities: Management and the board of directors consider the need for the organization to interact with and monitor the activities of external parties when establishing structures, reporting lines, authorities, and responsibilities.","Name, title, and job description for current employee responsible for vendor management","Yes"],
-"CC 1.":["The organization demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives. ","Category"],
-"CC 1.4.":["Establishes Policies and Practices: Policies and practices reflect expectations of competence necessary to support the achievement of objectives.","Sample of 5 current job descriptions","Yes"],
-"CC 1.4.":["Evaluates Competence and Addresses Shortcomings: The board of directors and management evaluate competence across the organization and in outsourced service providers in relation to established policies and practices and act as necessary to address shortcomings.","Agendas and meeting minutes from 1 executive and/or board meetings held during the previous 6 months, with sensitve data redacted","Yes"],
-"CC 1.4.":["Attracts, Develops, and Retains Individuals: The organization provides the mentoring and training needed to attract, develop, and retain sufficient and competent personnel and outsourced service providers to support the achievement of objectives.","Evidence of annual security awareness training for employees (attendance logs, quizzes, training curriculum)","Yes"],
-"CC 1.4.":["Plans and Prepares for Succession: Senior management and the board of directors develop contingency plans for assignments of responsibility important for internal controls.","Business contingecy plan, charter, or equivalent relevant to internal controls","Yes"],
-"CC 1.4.":["Considers the Background of Individuals: The organization considers the background of potential and existing personnel, contractors, and vendor employees when determining whether to employ and retain the individuals. ","Blank background check authorization form","Yes"],
-"CC 1.4.":["Considers the Technical Competency of Individuals: The organization considers the technical competency of potential and existing personnel, contractors, and vendor employees when determining whether to employ and retain the individuals. ","Current hiring policy and procedures, including new hire checklist (if applicable)","Yes"],
-"CC 1.4.":["Provides Training to Maintain Technical Competencies: The organization provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.","Evidence of annual security awareness training for employees (attendance logs, quizzes, training curriculum)","Yes"],
-"CC 1.":["The organization holds individuals accountable for their intenal control responsibilities in the pursuite of objectives. ","Category"],
-"CC 1.5.":["Enforces Accountability Through Structures, Authorities, and Responsibilities: Management and the board of directors establish the mechanisms to communicate and hold individuals accountable for performance of internal control responsibilities across the organization and implement corrective action as necessary.","Blank employee evaluation or performance review form  5 department meeting minutes conducted within the last 6 months","Yes"],
-"CC 1.5.":["Establishes Performance Measures, Incentives, and Rewards: Management and the board of directors establish performance measures, incentives, and other rewards appropriate for responsibilities at all levels of the organization, reflecting appropriate dimensions of performance and expected standards of conduct, and considering the achievement of both short- and long-term objectives.","Employee manual or handbook, including code of conduct policy","Yes"],
-"CC 1.5.":["Evaluates Performance Measures, Incentives, and Rewards for Ongoing Relevance: Management and the board of directors align incentives and rewards with the fulfillment of internal control responsibilities in the achievement of objectives.","Policy or process used by management and the board of directors to align incentives for achieving department and individual goals with rewards and promotions","Yes"],
-"CC 1.5.":["Considers Excessive Pressures: Management and the board of directors evaluate and adjust pressures associated with the achievement of objectives as they assign responsibilities, develop performance measures, and evaluate performance.","Policy or process used by management and the board of directors to evaluate and adjust both department and individual incentives for achieving company objectives","Yes"],
-"CC 1.5.":["Evaluates Performance and Rewards or Disciplines Individuals: Management and the board of directors evaluate performance of internal control responsibilities, including adherence to standards of conduct and expected levels of competence, and provide rewards or exercise disciplinary action, as appropriate.","Policy or process for providing employee feedback and responsibilities following an employee evaluation","Yes"],
-"CC 2.":["The organization obtains or generates and uses relevant, quality information to support internal control functions. ","Category"],
-"CC 2.1.":["Identifies Information Requirements: A process is in place to identify the information required and expected to support the functioning of the other components of internal control and the achievement of the organization's objectives.","Screenshot of the location of company policies and procedures (document management system, internal wiki, Google Drive, or other file sharing location)","Yes"],
-"CC 2.1.":["Captures Internal and External Sources of Data: Information systems capture internal and external sources of data.","Procedure for capturing data for processing","Yes"],
-"CC 2.1.":["Processes Relevant Data Into Information: Information systems process and transform relevant data into information.","Procedure for transforming data into information","Yes"],
-"CC 2.1.":["Maintains Quality Throughout Processing: Information systems produce information that is timely, current, accurate, complete, accessible, protected, verifiable, and retained. Information is reviewed to assess its relevance in supporting the internal control components. ","Procedure for producing information that is timely, accurate, complete, accessible, protected, verifiable, and properly retained","Yes"],
-"CC 2.":["The organization communicates information internally, including the objectives and responsibilities for internal controls, that are necessary to support the functions of internal controls. ","Category"],
-"CC 2.2.":["Communicates Internal Control Information: A process is in place to communicate required information to enable all personnel to understand and carry out their internal control responsibilities.","Screenshot of the location of company policies and procedures (document management system, internal wiki, Google Drive, or other file sharing location)","Yes"],
-"CC 2.2.":["Communicates With the Board of Directors: Communication exists between management and the board of directors so that both have information needed to fulfill their roles with respect to the organization's objectives.","Agendas and/or meeting minutes from 1 meeting between management and Board of Directors held during the previous 3 months, with sensitve data redacted","Yes"],
-"CC 2.2.":["Provides Separate Communication Lines: Separate communication channels, such as whistleblower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.","Screenshot of anonymous or confidential external communication channel (e.g., anonymous company email, whistleblower hotline, and etc.)","Yes"],
-"CC 2.2.":["Selects Relevant Method of Communication: The method of communication considers the timing, audience, and nature of information.","Policies and/or procedures for internal and external communications","Yes"],
-"CC 2.2.":["Communicates Responsibilities: Organizational personnel with responsibility for designing, developing, implementing, operating, maintaining, or monitoring system controls receive communications about their responsibilities, including changes in their responsibilities, and have the information necessary to carry out those responsibilities. ","Name, title, and job description for person responsible for developing and maintaining system security policies, as well as any changes or updates to those policies","Yes"],
-"CC 2.2.":["Communicates Information on Reporting Failures, Incidents, Concerns, and Other Matters: Organizational personnel are provided with information on how to report systems failures, incidents, concerns, and other complaints to personnel.","Incident response policy and/or procedures","Yes"],
-"CC 2.2.":["Communicates Objectives and Changes to Objectives: The organization communicates its objectives and any changes to those objectives to personnel in a timely manner. ","List of authorized personnel responsible for changes to confidentiality processes","Yes"],
-"CC 2.2.":["Communicates Information to Improve Security Knowledge and Awareness: The organization communicates information to improve security knowledge and awareness and to model appropriate security behaviors to personnel through a security awareness training program. ","Evidence of annual security awareness training for employees (attendance logs, quizzes, training curriculum)","Yes"],
-"CC 2.2.":["Communicates Information About System Operation and Boundaries: The organization prepares and communicates information about the design and operation of the system and its boundaries to authorized personnel to enable them to understand their role in the system and the results of system operation.","Current system description","Yes"],
-"CC 2.2.1":["Communicates System Objectives: The organization communicates its objectives to personnel to enable them to carry out their responsibilities. ","Screenshot of the location of company policies and procedures (document management system, internal wiki, Google Drive, or other file sharing location)","Yes"],
-"CC 2.2.1":["Communicates System Changes: System changes that affect responsibilities or the achievement of the organization's objectives are communicated in a timely manner. ","5 recent communications to internal stakeholders about changes that impact the system and information assets","Yes"],
-"CC 2.":["The organization communicates with external parties regarding matters that affect the function of internal controls. ","Category"],
-"CC 2.3.":["Communicates to External Parties: Processes are in place to communicate relevant and timely information to external parties, including shareholders, partners, owners, regulators, customers, financial analysts, and other external parties.","5 SLAs or MSAs communicating commitments to customers and internal/external users","Yes"],
-"CC 2.3.":["Enables Inbound Communications: Open communication channels allow input from customers, consumers, suppliers, external auditors, regulators, financial analysts, and others, providing management and the board of directors with relevant information.","5 recent communications to internal stakeholders about changes that impact the system and information assets","Yes"],
-"CC 2.3.":["Communicates With the Board of Directors: Relevant information resulting from assessments conducted by external parties is communicated to the board of directors.","Communications to Board of Directors informing them of relevant results of external assessments","Yes"],
-"CC 2.3.":["Provides Separate Communication Lines: Separate communication channels, such as whistle-blower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.","Screenshot of anonymous or confidential external communication channel (e.g., anonymous company email, whistleblower hotline, and etc.)","Yes"],
-"CC 2.3.":["Selects Relevant Method of Communication: The method of communication considers the timing, audience, and nature of the communication and legal, regulatory, and fiduciary requirements and expectations. ","Policies and/or procedures for internal and external communications","Yes"],
-"CC 2.3.":["Communicates Objectives Related to Confidentiality and Changes to Objectives: The organization communicates, to external users, vendors, business partners and others whose products and services are part of the system, objectives and changes to objectives related to confidentiality.  ","5 recent communications to internal stakeholders about changes that impact confidentiality","Yes"],
-"CC 2.3.":["Communicates Objectives Related to Privacy and Changes to Objectives: The organization communicates, to external users, vendors, business partners and others whose products and services are part of the system, objectives related to privacy and changes to those objectives. ","5 recent communications to internal stakeholders about changes that impact privacy","Yes"],
-"CC 2.3.":["Communicates Information About System Operation and Boundaries: The organization prepares and communicates information about the design and operation of the system and its boundaries to authorized external users to permit users to understand their role in the system and the results of system operation. ","Current system description","Yes"],
-"CC 2.3.":["Communicates System Objectives: The organization communicates its system objectives to appropriate external users. ","5 recent communications to external stakeholders about system objectives","Yes"],
-"CC 2.3.1":["Communicates System Responsibilities: External users with responsibility for designing, developing, implementing, operating, maintaining, and monitoring system controls receive communications about their responsibilities and have the information necessary to carry out those responsibilities.","Vendor management policy and/or procedures","Yes"],
-"CC 2.3.1":["Communicates Information on Reporting System Failures, Incidents, Concerns, and Other Matters: External users are provided with information on how to report systems failures, incidents, concerns, and other complaints to appropriate personnel. ","Policies and/or procedures for how customers report incidents, system failures, bugs, and other complaints. ","Yes"],
-"CC 3.":["The organization specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives. ","Category"],
-"CC 3.1.":["Reflects Management's Choices: Operations objectives reflect management's choices about structure, industry considerations, and performance of the organization.","Current risk management policy and/or procedures","Yes"],
-"CC 3.1.":["Considers Tolerances for Risk: Management considers the acceptable levels of variation relative to the achievement of operations objectives.","Current risk assessment policy and/or procedures","Yes"],
-"CC 3.1.":["Includes Operations and Financial Performance Goals: The organization reflects the desired level of operations and financial performance for the entity within operations objectives.","Example meeting minutes and/or agenda utilized to discuss operational objectives, goals, or metrics","Yes"],
-"CC 3.1.":["Forms a Basis for Committing of Resources: Management uses operations objectives as a basis for allocating resources needed to attain desired operations and financial performance.","Example meeting minutes and/or agenda utilized to discuss resources (i.e., people, technology, process) to meet operational objectives, goals, or metrics","Yes"],
-"CC 3.1.":["Complies With Applicable Accounting Standards: Financial reporting objectives are consistent with accounting principles suitable and available for that organization. The accounting principles selected are appropriate in the circumstances.","Accounting and/or finance operational procedures document","Yes"],
-"CC 3.1.":["Considers Materiality: Management considers materiality in financial statement presentation.","Example meeting minutes and/or agenda utilized to discuss financial objectives, goals, or metrics","Yes"],
-"CC 3.1.":["Reflects Organizational Activities: External reporting reflects the underlying transactions and events to show qualitative characteristics and assertions.","Accounting and/or finance operational procedures document","Yes"],
-"CC 3.1.":["Complies With Externally Established Frameworks: Management establishes objectives consistent with laws and regulations or standards and frameworks of recognized external organizations.","Any regulatory or compliance requirements applicable to the organization","Yes"],
-"CC 3.1.":["Considers the Required Level of Precision: Management reflects the required level of precision and accuracy suitable for user needs and based on criteria established by third parties in nonfinancial reporting.","Accounting and/or finance operational procedures document","Yes"],
-"CC 3.1.1":["Reflects Organizational Activities: External reporting reflects the underlying transactions and events within a range of acceptable limits.","Accounting and/or finance operational procedures document","Yes"],
-"CC 3.1.1":["Reflects Management's Choices: Internal reporting provides management with accurate and complete information regarding management's choices and information needed in managing the organization.","Example meeting minutes and/or agenda utilized to discuss financial objectives, goals, or metrics","Yes"],
-"CC 3.1.1":["Considers the Required Level of Precision: Management reflects the required level of precision and accuracy suitable for user needs in nonfinancial reporting objectives and materiality within financial reporting objectives.","Accounting and/or finance operational procedures document","Yes"],
-"CC 3.1.1":["Reflects Organizational Activities: Internal reporting reflects the underlying transactions and events within a range of acceptable limits.","Example meeting minutes and/or agenda utilized to discuss financial objectives, goals, or metrics","Yes"],
-"CC 3.1.1":["Reflects External Laws and Regulations: Laws and regulations establish minimum standards of conduct, which the organzization integrates into compliance objectives.","Any regulatory or compliance requirements applicable to the organization","Yes"],
-"CC 3.1.1":["Considers Risk Tolerances: Management considers the acceptable levels of variation relative to the achievement of operational objectives.","Current risk management policy and/or procedures","Yes"],
-"CC 3.1.1":["Establishes Sub-objectives to Support Objectives: Management identifies sub-objectives related to security, availability, processing integrity, confidentiality, and privacy to support the achievement of the organization's objectives related to reporting, operations, and compliance.","Information security policy","Yes"],
-"CC 3.":["The organization identifies risks to the achievement of its objectives across the organization and analyzes risks as a basis for determining how the risks should be managed. ","Category"],
-"CC 3.2.":["Includes Organizational, Subsidiary, Division, Operating Unit, and Functional Levels: The organization identifies and assesses risk at the organizational, subsidiary, division, operating unit, and functional levels relevant to the achievement of objectives.","Current risk assessment policy and/or procedures","Yes"],
-"CC 3.2.":["Analyzes Internal and External Factors: Risk identification considers both internal and external factors and their impact on the achievement of objectives.","Current risk assessment policy and/or procedures","Yes"],
-"CC 3.2.":["Involves Appropriate Levels of Management: The organization puts into place effective risk assessment mechanisms that involve appropriate levels of management.","Evidence of management involvement in the risk assessment process (internal communications such as emails, memos, etc.)","Yes"],
-"CC 3.2.":["Estimates Significance of Risks Identified: Identified risks are analyzed through a process that includes estimating the potential significance of the risk. ","Current risk assessment policy and/or procedures","Yes"],
-"CC 3.2.":["Determines How to Respond to Risks: Risk assessment includes considering how the risk should be managed and whether to accept, avoid, reduce, or share the risk.","Current risk assessment policy and/or procedures","Yes"],
-"CC 3.2.":["Identifies and Assesses Criticality of Information Assets and Identifies Threats and Vulnerabilities: The organization's risk identification and assessment process includes:  1. Identifying information assets, including physical devices and systems, virtual devices, software, data and data flows, external information systems, and organizational roles 2. Assessing the criticality of those information assets  3. Identifying the threats to the assets from intentional (including malicious) and unintentional acts and environmental events 4. Identifying vulnerabilities of the identified assets","Current inventory of information assets ","Yes"],
-"CC 3.2.":["Analyzes Threats and Vulnerabilities From Vendors, Business Partners, and Other Parties: The organization's risk assessment process includes analysis of potential threats and vulnerabilities arising from vendors providing goods and services, as well as threats and vulnerabilities arising from business partners, customers, and others with access to the organization's information systems. ","Vulnerability scan or penetration test reports performed within the review period","Yes"],
-"CC 3.2.":["Considers the Significance of the Risk: The orgnization's consideration of the potential significance of the identified risks includes:  1. Determining the criticality of identified assets in meeting objectives 2. Assessing the impact of identified threats and vulnerabilities in meeting objectives 3. Assessing the likelihood of identified threats  4. Determining the risk associated with assets based on asset criticality, threat impact, and likelihood","Documentation of risk assessment performed within the review period","Yes"],
-"CC 3.":["The organization considers the potential for fraud in assessing risks to the achievement of objectives. ","Category"],
-"CC 3.3.":["Considers Various Types of Fraud: The assessment of fraud considers fraudulent reporting, possible loss of assets, and corruption resulting from the various ways that fraud and misconduct can occur.","Fraud assessment policy and/or process","Yes"],
-"CC 3.3.":["Assesses Incentives and Pressures: The assessment of fraud risks considers incentives and pressures.","Current fraud assessment (conducted within the review period)","Yes"],
-"CC 3.3.":["Assesses Opportunities: The assessment of fraud risk considers opportunities for unauthorized acquisition, use, or disposal of assets, altering the organization's reporting records, or committing other inappropriate acts.","Current fraud assessment (conducted within the review period)","Yes"],
-"CC 3.3.":["Assesses Attitudes and Rationalizations: The assessment of fraud risk considers how management and other personnel might engage in or justify inappropriate actions.","Current fraud assessment (conducted within the review period)","Yes"],
-"CC 3.3.":["Considers the Risks Related to the Use of IT and Access to Information: The assessment of fraud risks includes consideration of threats and vulnerabilities that arise specifically from the use of IT and access to information. ","Current fraud assessment (conducted within the review period)","Yes"],
-"CC 3.":["The organization identifies and assesses changes that could significantly impact the system of internal controls. ","Category"],
-"CC 3.4.":["Assesses Changes in the External Environment: The risk identification process considers changes to the regulatory, economic, and physical environment in which the organization operates.","Current risk assessment (conducted within the review period)","Yes"],
-"CC 3.4.":["Assesses Changes in the Business Model: The organization considers the potential impacts of new business lines, dramatically altered compositions of existing business lines, acquired or divested business operations on the system of internal control, rapid growth, changing reliance on foreign geographies, and new technologies.","Current risk assessment (conducted within the review period)","Yes"],
-"CC 3.4.":["Assesses Changes in Leadership: The organization considers changes in management and respective attitudes and philosophies on the system of internal control.","Current risk assessment (conducted within the review period)","Yes"],
-"CC 3.4.":["Assess Changes in Systems and Technology: The risk identification process considers changes arising from changes in the organization's systems and changes in the technology environment. ","Current risk assessment (conducted within the review period)","Yes"],
-"CC 3.4.":["Assess Changes in Vendor and Business Partner Relationships: The risk identification process considers changes in vendor and business partner relationships. ","Any external reviews performed within the last 12 months, i.e., ISO 27001 or PCI DSS certifications, audit reports","Yes"],
-"CC 4.":["The organization selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning. ","Category"],
-"CC 4.1.":["Considers a Mix of Ongoing and Separate Evaluations: Management includes a balance of ongoing and separate evaluations.","Incident response policy and/or process, security breach identification and notification policies and/or process, monitoring policies and/or procedures","Yes"],
-"CC 4.1.":["Considers Rate of Change: Management considers the rate of change in business and business processes when selecting and developing ongoing and separate evaluations.","Screenshot of incident management system ticketing, including name and current version of software; list of incident tickets generated during the review period","Yes"],
-"CC 4.1.":["Establishes Baseline Understanding: The design and current state of an internal control system are used to establish a baseline for ongoing and separate evaluations.","Screenshot of monitoring system configuration, including name and current version of software; system description for monitoring system","Yes"],
-"CC 4.1.":["Uses Knowledgeable Personnel: Evaluators performing ongoing and separate evaluations have sufficient knowledge to understand what is being evaluated.","Email or screenshot of notification generated by monitoring system; list of personnel who receive alerts","Yes"],
-"CC 4.1.":["Integrates With Business Processes: Ongoing evaluations are built into the business processes and adjust to changing conditions.","Incident response policy and monitoring policies and/or processes","Yes"],
-"CC 4.1.":["Adjusts Scope and Frequency: Management varies the scope and frequency of separate evaluations depending on risk.","Policy and/or process for adjusting scope and frequency of evaluations","Yes"],
-"CC 4.1.":["Objectively Evaluates: Separate evaluations are performed periodically to provide objective feedback.","Monitoring policies and/or processes","Yes"],
-"CC 4.1.":["Considers Different Types of Ongoing and Separate Evaluations: Management uses a variety of different types of ongoing and separate evaluations, including penetration testing, independent certification made against established specifications (for example, ISO certifications), and internal audit assessments.  ","Any external evaluations performed within the last 12 months, i.e., ISO 27001 or PCI DSS certifications, audit reports","Yes"],
-"CC 4.":["The organization evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate. ","Category"],
-"CC 4.2.":["Assesses Results: Management and the board of directors, as appropriate, assess results of ongoing and separate evaluations.","Meeting agendas, minutes, or emails documenting that management and the board of directors assessed evaluation results","Yes"],
-"CC 4.2.":["Communicates Deficiencies: Deficiencies are communicated to parties responsible for taking corrective action and to senior management and the board of directors, as appropriate.","Screenshot of incident management system ticketing, including name and current version of software","Yes"],
-"CC 4.2.":["Monitors Corrective Action: Management tracks whether deficiencies are remedied on a timely basis.","List of incident tickets generated in the review period","Yes"],
-"CC 5.":["The organization selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels.","Category"],
-"CC 5.1.":["Integrates With Risk Assessment: Control activities help ensure that risk responses that address and mitigate risks are carried out.  ","Current risk assessment","Yes"],
-"CC 5.1.":["Considers Organization-Specific Factors: Management considers how the environment, complexity, nature, and scope of its operations, as well as the specific characteristics of its organization, affect the selection and development of control activities.","Current risk assessment","Yes"],
-"CC 5.1.":["Determines Relevant Business Processes: Management determines which relevant business processes require control activities.","Current risk assessment","Yes"],
-"CC 5.1.":["Evaluates a Mix of Data Submitted Types: Control activities include a range and variety of controls and may include a balance of approaches to mitigate risks, considering both manual and automated controls, and preventive and detective controls.","Current risk assessment","Yes"],
-"CC 5.1.":["Considers at What Level Activities Are Applied: Management considers control activities at various levels in the organization.","Current risk assessment","Yes"],
-"CC 5.1.":["Addresses Segregation of Duties: Management segregates incompatible duties, and where such segregation is not practical, management selects and develops alternative control activities.","Current org chart with date of last revision (must have been updated within the last 12 months)","Yes"],
-"CC 5.":["The entity also selects and develops general control activities over technology to support the achievement of objectives.","Category"],
-"CC 5.2.":["Determines Dependency Between the Use of Technology in Business Processes and Technology General Controls: Management understands and determines the dependency and linkage between business processes, automated control activities, and technology general controls.","Plans for annual risk assessment, internal/external audit for the calendar year","Yes"],
-"CC 5.2.":["Establishes Relevant Technology Infrastructure Control Activities: Management selects and develops control activities over the technology infrastructure, which are designed and implemented to help ensure the completeness, accuracy, and availability of technology processing.","Policies and procedures for infrastructure deployment, development, and approval","Yes"],
-"CC 5.2.":["Establishes Relevant Security Management Process Controls Activities: Management selects and develops control activities that are designed and implemented to restrict technology access rights to authorized users commensurate with their job responsibilities and to protect the organization's assets from external threats.","Current access control policy and/or processes","Yes"],
-"CC 5.2.":["Establishes Relevant Technology Acquisition, Development, and Maintenance Process Control Activities: Management selects and develops control activities over the acquisition, development, and maintenance of technology and its infrastructure to achieve management’s objectives.","Current service acquisition and maintenance policy and/or processes","Yes"],
-"CC 5.":["The organization deploys control activities through policies that establish what is expected and in procedures that put policies into action. ","Category"],
-"CC 5.3.":["Establishes Policies and Procedures to Support Deployment of Management ‘s Directives: Management establishes control activities that are built into business processes and employees’ day-to-day activities through policies establishing what is expected and relevant procedures specifying actions.","Policies and/or processes that secure the system and information assets","Yes"],
-"CC 5.3.":["Establishes Responsibility and Accountability for Executing Policies and Procedures: Management establishes responsibility and accountability for control activities with management (or other designated personnel) of the business unit or function in which the relevant risks reside.","Blank employee confidentiality agreement or NDA","Yes"],
-"CC 5.3.":["Performs in a Timely Manner: Responsible personnel perform control activities in a timely manner as defined by the policies and procedures.","Set of information security policies and procedures","Yes"],
-"CC 5.3.":["Takes Corrective Action: Responsible personnel investigate and act on matters identified as a result of executing control activities.","Set of information security policies and procedures","Yes"],
-"CC 5.3.":["Performs Using Competent Personnel: Competent personnel with sufficient authority perform control activities with diligence and continuing focus.","Current hiring policy and/or processes, including a new hire checklist","Yes"],
-"CC 5.3.":["Reassesses Policies and Procedures: Management periodically reviews control activities to determine their continued relevance and refreshes them when necessary.","Annual review of security policies (dated within the last 12 months)","Yes"],
-"CC 6.":["The organization implements logical access security software, infrastructure, and architectures over protected information assets to protect them from security events to meet the organization's objectives. ","Category"],
-"CC 6.1.":["Identifies and Manages the Inventory of Information Assets: The organization identifies, inventories, classifies, and manages information assets.  ","Current inventory of information assets ","Yes"],
-"CC 6.1.":["Restricts  Logical Access: Logical access to information assets, including hardware, data (at-rest, during processing, or in transmission), software, administrative authorities, mobile devices, output, and offline system components is restricted through the use of access control software and rule sets. ","Screenshot of login process showing multi-factor authentication enabled","Yes"],
-"CC 6.1.":["Identifies and Authenticates Users: Persons, infrastructure and software are identified and authenticated prior to accessing information assets, whether locally or remotely. ","Screenshot of system authentication settings for in-scope servers, databases, and production applications","Yes"],
-"CC 6.1.":["Considers Network Segmentation: Network segmentation permits unrelated portions of the organization's information system to be isolated from each other. ","Current diagram of in-scope physical and local networks, including all firewalls for production servers (IP addresses partially redacted)","Yes"],
-"CC 6.1.":["Manages Points of Access: Points of access by outside entities and the types of data that flow through the points of access are identified, inventoried, and managed. The types of individuals and systems using each point of access are identified, documented, and managed. ","Screenshot of current intrusion detection system configuration","Yes"],
-"CC 6.1.":["Restricts Access to Information Assets: Combinations of data classification, separate data structures, port restrictions, access protocol restrictions, user identification, and digital certificates are used to establish access control rules for information assets.  ","Screenshot of current firewall rules and configurations","Yes"],
-"CC 6.1.":["Manages Identification and Authentication: Identification and authentication requirements are established, documented, and managed for individuals and systems accessing organization information, infrastructure, and software.","Set of information security policies/procedures relevant to logical access control and authentication requirements","Yes"],
-"CC 6.1.":["Manages Credentials for Infrastructure and Software: New internal and external infrastructure and software  are registered, authorized, and documented prior to being granted access credentials and implemented on the network or access point. Credentials are removed and access is disabled when access is no longer required or the infrastructure and software are no longer in use. ","Set of information security policies/procedures relevant to logical access control and authentication requirements","Yes"],
-"CC 6.1.":["Uses Encryption to Protect Data: The organization uses encryption to supplement other measures used to protect data-at-rest, when such protections are deemed appropriate based on assessed risk.","Current encryption configuration for data-at-rest and databases","Yes"],
-"CC 6.1.1":["Protects Encryption Keys: Processes are in place to protect encryption keys during generation, storage, use, and destruction.","Current encryption key management policies and/or processes","Yes"],
-"CC 6.":["Prior to issuing system credentials and granting system access, the organization registers and authorizes new internal and external users whose access is administered by the organization. For those users whose access is administered by the organization, user system credentials are removed when user access is no longer authorized. ","Category"],
-"CC 6.2.":["Controls Access Credentials to Protected Assets: Information asset access credentials are created based on an authorization from the system's asset owner or authorized custodian.","Current access control policies and/or processes","Yes"],
-"CC 6.2.":["Removes Access to Protected Assets When Appropriate: Processes are in place to remove credential access when an individual no longer requires such access.","Current termination policy and/or processes, including an offboarding checklist","Yes"],
-"CC 6.2.":["Reviews Appropriateness of Access Credentials: The appropriateness of access credentials is reviewed on a periodic basis for unnecessary and inappropriate individuals with credentials. ","Results of user access review performed within the review period","Yes"],
-"CC 6.":["The organization authorizes, modifies, or removes access to data, software, functions, and other protected information assets based on roles, responsibilities, or the system design and changes, giving consideration to the concepts of least privilege and segregation of duties, to meet the organization's objectives. ","Category"],
-"CC 6.3.":["Creates or Modifies Access to Protected Information Assets: Processes are in place to create or modify access to protected information assets based on authorization  from the asset’s owner.","Current access control policies and/or processes","Yes"],
-"CC 6.3.":["Removes Access to Protected Information Assets: Processes are in place to remove access to protected information assets when an individual no longer requires access.","Current termination policy and/or processes, including an offboarding checklist","Yes"],
-"CC 6.3.":["Uses Role-Based Access Controls: Role-based access control is utilized to support segregation of incompatible functions.","Current access control policies and/or processes","Yes"],
-"CC 6.":["The organization restricts physical access to facilities and protected information assets (for example, data center facilities,  back-up media storage, and other sensitive locations) to authorized personnel to meet the organization's objectives. ","Category"],
-"CC 6.4.":["Creates or Modifies Physical Access: Processes are in place to create or modify physical access to facilities such as data centers, office spaces, and work areas, based on authorization from the system's asset owner.","Current physical access policies and/or processes","Yes"],
-"CC 6.4.":["Removes Physical Access: Processes are in place to remove access to physical resources when an individual no longer requires access.","Current termination policy and/or processes, including an offboarding checklist","Yes"],
-"CC 6.4.":["Reviews Physical Access: Processes are in place to periodically review physical access to ensure consistency with job responsibilities.","Results of physical access review performed within the review period","Yes"],
-"CC 6.":["The organization discontinues logical and physical protections over physical assets only after the ability to read or recover data and software from those assets has been diminished and is no longer required to meet the organization's objectives.    ","Category"],
-"CC 6.5.":["Identifies Data and Software for Disposal: Procedures are in place to identify data and software stored on equipment to be disposed and to render such data and software unreadable.","Current data retention and disposal policy","Yes"],
-"CC 6.5.":["Removes Data and Software From Organizational Control: Procedures are in place to remove data and software stored on equipment to be removed from the physical control of the organization and to render such data and software unreadable.","Current data retention and disposal policy","Yes"],
-"CC 6.":["The organization implements logical access security measures to protect against threats from sources outside its system boundaries.  ","Category"],
-"CC 6.6.":["Restricts Access: The types of activities that can occur through a communication channel (for example, FTP site, router port) are restricted. ","System description for SFTP, encrypted email, secure web portal; screenshots of secure data transfer applications","Yes"],
-"CC 6.6.":["Protects Identification and Authentication Credentials: Identification and authentication credentials are protected during transmission outside its system boundaries.","Current SSL certificates for production sites","Yes"],
-"CC 6.6.":["Requires Additional Authentication or Credentials: Additional authentication information or credentials are required when accessing the system from outside its boundaries.","Evidence of multi-factor authentication for remote access","Yes"],
-"CC 6.6.":["Implements Boundary Protection Systems: Boundary protection systems (for example, firewalls, demilitarized zones, and intrusion detection systems) are implemented to protect external access points from attempts and unauthorized access and are monitored to detect such attempts.","Make and model/software name and version of intrusion detection system; monthly system logs","Yes"],
-"CC 6.":["The organization restricts the transmission, movement, and removal of information to authorized internal and external users and processes, and protects it during transmission, movement, or removal to meet the organization's objectives.   ","Category"],
-"CC 6.7.":["Restricts the Ability to Perform Transmission: Data loss prevention processes and technologies are used to restrict ability to authorize and execute transmission, movement, and removal of information.","Screenshot of current firewall rules and configurations","Yes"],
-"CC 6.7.":["Uses Encryption Technologies or Secure Communication Channels to Protect Data: Encryption technologies or secured communication channels are used to protect transmission of data and other communications beyond connectivity access points.","SSL certificates for production sites","Yes"],
-"CC 6.7.":["Protects Removal Media: Encryption technologies and physical asset protections are used for removable media (such as USB drives and back-up tapes), as appropriate.","Current removable media policy and/or processes","Yes"],
-"CC 6.7.":["Protects Mobile Devices: Processes are in place to protect mobile devices (such as laptops, smart phones and tablets) that serve as information assets.","Current mobile device policy and/or processes","Yes"],
-"CC 6.":["The organization implements controls to prevent or detect and act upon the introduction of unauthorized or malicious software to meet the organization's objectives. ","Category"],
-"CC 6.8.":["Restricts Application and Software Installation: The ability to install applications and software is restricted to authorized individuals.","Current software installation policy and/or processes; screenshot of configuration that restricts installation of non-approved software","Yes"],
-"CC 6.8.":["Detects Unauthorized Changes to Software and Configuration Parameters: Processes are in place to detect changes to software and configuration parameters that may be indicative of unauthorized or malicious software.","Current file integrity policy and/or processes, screenshot of monitoring system configuration showing which files and directories are monitored, screenshot of configuration showing which security personnel are alerted in the event of unauthorized software modification","Yes"],
-"CC 6.8.":["Uses a Defined Change Control Process: A management-defined change control process is used for the implementation of software. ","Current software change management policy and/or processes","Yes"],
-"CC 6.8.":["Uses Antivirus and Anti-Malware Software: Antivirus and anti-malware software is implemented and maintained to provide for the interception or detection and remediation of malware.","Description of current anti-virus systems or software, including which systems are protected  Screenshot showing anti-virus update and distribution settings for each in-scope production server   Screenshot showing current virus definition level and anti-virus version number  Screenshot showing current scanning frequency","Yes"],
-"CC 6.8.":["Scans Information Assets from Outside the Entity for Malware and Other Unauthorized Software—Procedures are in place to scan information assets that have been transferred or returned to the entity’s custody for malware and other unauthorized software and to remove any items detected prior to its implementation on the network. ","Current information security policy and/or processes","Yes"],
-"CC 7.":["To meet its objectives, the organization uses detection and monitoring procedures to identify:  1. Changes to configurations that result in the introduction of new vulnerabilities  2. Susceptibilities to newly discovered vulnerabilities","Category"],
-"CC 7,1,":["Uses Defined Configuration Standards: Management has defined configuration standards. ","Current build procedures for hardware and/or software infrastructure","Yes"],
-"CC 7,1,":["Monitors Infrastructure and Software: The organization monitors infrastructure and software for noncompliance with the standards, which could threaten the achievement of the organization's objectives.  ","Current software and infrastructure non-compliance monitoring policies and procedures ","Yes"],
-"CC 7,1,":["Implements Change-Detection Mechanisms: The IT system includes a change-detection mechanism (for example, file integrity monitoring tools) to alert personnel to unauthorized modifications of critical system files, configuration files, or content files. ","Screenshot of change detection tools in place (e.g., file integrity monitoring system)","Yes"],
-"CC 7,1,":["Detects Unknown or Unauthorized Components: Procedures are in place to detect the introduction of unknown or unauthorized components.  ","Current wireless access security policy","Yes"],
-"CC 7,1,":["Conducts Vulnerability Scans: The organization conducts vulnerability scans designed to identify potential vulnerabilities or misconfigurations on a periodic basis and after any significant change in the environment and takes action to remediate identified deficiencies on a timely basis.","Current vulnerability scanning policies and/or processes, list of network changes over the review period, vulnerability scan report dated within the review period (or after date of network changes)","Yes"],
-"CC 7.":["The organization monitors system components and the operation of those components for anomalies that are indicative of malicious acts, natural disasters, and errors affecting the organization's ability to meet its objectives; anomalies are analyzed to determine whether they represent security events.","Category"],
-"CC 7.2.":["Implements Detection Policies, Procedures, and Tools: Detection policies and procedures are defined and implemented, and detection tools are implemented on Infrastructure and software to identify anomalies in the operation or unusual activity on systems. Procedures may include:  1. A defined governance process for security event detection and management that includes provision of resources 2. Use of intelligence sources to identify newly discovered threats and vulnerabilities  3. Logging of unusual system activities","Incident response policy and procedures, screenshot of enterprise monitoring monitoring/logging configuration and example logs and alerts","Yes"],
-"CC 7.2.":["Designs Detection Measures: Detection measures are designed to identify anomalies that could result from actual or attempted:  1. Compromise of physical barriers  2. Unauthorized actions of authorized personnel  3. Use of compromised identification and authentication credentials  4. Unauthorized access from outside the system boundaries  5. Compromise of authorized external parties 6. Implementation or connection of unauthorized hardware and software","Current incident response policy; or security breach identification, notification, and escalation policies and/or processes  ","Yes"],
-"CC 7.2.":["Implements Filters to Analyze Anomalies: Management has implemented procedures to filter, summarize, and analyze anomalies to identify security events.","Current intrusion detection system (IDS), including product make and model or software version","Yes"],
-"CC 7.2.":["Monitors Detection Tools for Effective Operation: Management has implemented processes to monitor the effectiveness of detection tools.","System generated alerts, notificatons, or emails from the review period","Yes"],
-"CC 7.":["The organization evaluates security events to determine whether they could or have resulted in a failure of the organization to meet its objectives (security incidents) and, if so, takes actions to prevent or address such failures.","Category"],
-"CC 7.3.":["Responds to Security Incidents: Procedures are in place for responding to security incidents and evaluating the effectiveness of those policies and procedures on a periodic basis. ","Current incident response policy and/or processes","Yes"],
-"CC 7.3.":["Communicates and Reviews Detected Security Events: Detected security events are communicated to and reviewed by the individuals responsible for the management of the security program and actions are taken, if necessary.","Screenshot of incident management system ticketing, including name and current version of tickeitng software","Yes"],
-"CC 7.3.":["Develops and Implements Procedures to Analyze Security Incidents: Procedures are in place to analyze security incidents and determine system impact.","Incident response policy and procedures","Yes"],
-"CC 7.3.":["Assesses the Impact on Personal Information: Detected security events are evaluated to determine whether they could or did result in the unauthorized disclosure or use of personal information and whether there has been a failure to comply with applicable laws or regulations. ","Incident response policy and procedures","Yes"],
-"CC 7.3.":["Determines Personal Information Used or Disclosed: When an unauthorized use or disclosure of personal information has occurred, the affected information is identified.  ","Current incident response policy; or security breach identification, notification, and escalation policies and/or processes  ","Yes"],
-"CC 7.":["The organization responds to identified security incidents by executing a defined incident response program to understand, contain, remediate, and communicate security incidents, as appropriate.  ","Category"],
-"CC 7.4.":["Assigns Roles and Responsibilities: Roles and responsibilities for the design, implementation, maintenance, and execution of the incident response program are assigned, including the use of external resources when necessary.","Screenshot showing personnel who receive alerts from monitroing system","Yes"],
-"CC 7.4.":["Contains Security Incidents: Procedures are in place to contain security incidents that actively threaten organizational objectives. ","Current incident response policy and/or processes","Yes"],
-"CC 7.4.":["Mitigates Ongoing Security Incidents: Procedures are in place to mitigate the effects of ongoing security incidents.","Current incident response policy and/or processes","Yes"],
-"CC 7.4.":["Ends Threats Posed by Security Incidents: Procedures are in place to end the threats posed by security incidents through closure of the vulnerability, removal of unauthorized access, and other remediation actions. ","Current incident response policy and/or processes","Yes"],
-"CC 7.4.":["Restores Operations: Procedures are in place to restore data and business operations to an interim state that permits the achievement of organizational objectives.","Current incident response policy and/or processes","Yes"],
-"CC 7.4.":["Develops and Implements Communication Protocols for Security Incidents: Protocols for communicating security incidents and actions taken to affected parties are developed and implemented to meet the organization's objectives. ","Current incident response policy and/or processes","Yes"],
-"CC 7.4.":["Obtains Understanding of Nature of Incident and Determines Containment Strategy: An understanding of the nature (for example, the method by which the incident occurred and the affected system resources) and severity of the security incident is obtained to determine the appropriate containment strategy, including:  1. A determination of the appropriate response time frame  2. The determination and execution of the containment approach","Current incident response policy and/or processes","Yes"],
-"CC 7.4.":["Remediates Identified Vulnerabilities: Identified vulnerabilities are remediated through the development and execution of remediation activities.  ","Current incident response policy and/or processes","Yes"],
-"CC 7.4.":["Communicates Remediation Activities: Remediation activities are documented and communicated in accordance with the incident response program. ","Current incident response policy and/or processes","Yes"],
-"CC 7.4.1":["Evaluates the Effectiveness of Incident Response: The design of incident response activities is evaluated for effectiveness on a periodic basis.  ","Current incident response policy and/or processes","Yes"],
-"CC 7.4.1":["Periodically Evaluates Incidents: Periodically, management reviews incidents related to security, availability, processing integrity, confidentiality, and privacy and identifies the need for system changes based on incident patterns and root causes.","Current incident response policy and/or processes","Yes"],
-"CC 7.4.1":["Communicates Unauthorized Use and Disclosure: Events that resulted in unauthorized use or disclosure of personal information are communicated to the data subjects, legal and regulatory authorities, and others as required.  ","Blank employee confidentiality or non-disclosure agreement","Yes"],
-"CC 7.4.1":["Application of Sanctions: The conduct of individuals and organizations operating under the authority of the organization and involved in the unauthorized use or disclosure of personal information is evaluated and, if appropriate, sanctioned in accordance with organizational policies and legal and regulatory requirements.  ","Current disciplinary policy, if not included in employee handbook or code of conduct","Yes"],
-"CC 7.":["The organization identifies, develops, and implements activities to recover from identified security incidents. ","Category"],
-"CC 7.5.":["Restores the Affected Environment: The activities restore the affected environment to functional operation by rebuilding systems, updating software, installing patches, and changing configurations, as needed. ","Current business continuity and disaster recovery plans","Yes"],
-"CC 7.5.":["Communicates Information About the Event: Communications about the nature of the incident, recovery actions taken, and activities required for the prevention of future security events are made to management and others as appropriate (internal and external).   ","Current business continuity and disaster recovery plans","Yes"],
-"CC 7.5.":["Determines Root Cause of the Event: The root cause of the event is determined. ","Current business continuity and disaster recovery plans","Yes"],
-"CC 7.5.":["Implements Changes to Prevent and Detect Recurrences: Additional architecture or changes to preventive and detective controls, or both, are implemented to prevent and detect recurrences on a timely basis.  ","Current business continuity and disaster recovery plans","Yes"],
-"CC 7.5.":["Improves Response and Recovery Procedures: Lessons learned are analyzed, and the incident response plan and recovery procedures are improved. ","Current business continuity and disaster recovery plans","Yes"],
-"CC 7.5.":["Implements Incident Recovery Plan Testing: Incident recovery plan testing is performed on a periodic basis. The testing includes:  1. Development of testing scenarios based on threat likelihood and magnitude  2. Consideration of relevant system components from across the entity that can impair availability  3. Scenarios that consider the potential for the lack of availability of key personnel  4. Revision of continuity plans and systems based on test results","Results of disaster recovery or business continuity plan testing within the review period","Yes"],
-"CC 8.":["The organization authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.  ","Category"],
-"CC 8.1.":["Manages Changes Throughout the System Lifecycle: A process for managing system changes throughout the lifecycle of the system and its components (infrastructure, data, software and procedures) is used to support system availability and processing integrity. ","Current system change policies and/or processes","Yes"],
-"CC 8.1.":["Authorizes Changes: A process is in place to authorize system changes prior to development.","Current system change policies and/or processes","Yes"],
-"CC 8.1.":["Designs and Develops Changes: A process is in place to design and develop system changes.","Current system change policies and/or processes","Yes"],
-"CC 8.1.":["Documents Changes: A process is in place to document system changes to support ongoing maintenance of the system and to support system users in performing their responsibilities. ","List of all infrastructure changes from the review period","Yes"],
-"CC 8.1.":["Tracks System Changes: A process is in place to track system changes prior to implementation. ","Screenshot of current ticket management system  Screenshot or system generated list of changes to all in-scope application development programs duriing the review period","Yes"],
-"CC 8.1.":["Configures Software: A process is in place to select and implement the configuration parameters used to control the functionality of software. ","Current software development lifecycle policies and/or processes ","Yes"],
-"CC 8.1.":["Tests System Changes: A process is in place to test system changes prior to implementation. ","Current quality assurance testing processes","Yes"],
-"CC 8.1.":["Approves System Changes: A process is in place to approve system changes prior to implementation.  ","Policies and/or processes to verify all change requests are authorized, tested, approved, and documented","Yes"],
-"CC 8.1.":["Deploys System Changes: A process is in place to implement system changes.","Current list of authorized personnel for software and system changes to the production environment","Yes"],
-"CC 8.1.1":["Identifies and Evaluates System Changes: Objectives affected by system changes are identified, and the ability of the modified system to meet the objectives is evaluated throughout the system development life cycle.","Change management and system development policies, procedures, and process","Yes"],
-"CC 8.1.1":["Identifies Changes in Infrastructure, Data, Software, and Procedures Required to Remediate Incidents: Changes in infrastructure, data, software, and procedures required to remediate incidents to continue to meet objectives are identified, and the change process is initiated upon identification. ","List of all infrastructure changes performed during the review period","Yes"],
-"CC 8.1.1":["Creates Baseline Configuration of IT Technology: A baseline configuration of IT and control systems is created and maintained.","Screenshot of baseline configurations repository","Yes"],
-"CC 8.1.1":["Provides for Changes Necessary in Emergency Situations: A process is in place for authorizing, designing, testing, approving and implementing changes necessary in emergency situations. ","Current emergency change management policy and/or processes","Yes"],
-"CC 8.1.1":["Protects Confidential Information: The organization protects confidential information during system design, development, testing, implementation, and change processes to meet the organization's objectives related to confidentiality.  ","Current network diagram or separate virtual isntances showing separate environments for production, testing, and development","Yes"],
-"CC 8.1.1":["Protects Personal Information: The organization protects personal information during system design, development, testing, implementation, and change processes to meet the organization's objectives related to privacy.  ","Screenshot or system-generated list of user and admins with access to development, testing, and production environments. ","Yes"],
-"CC 9.":["The organization identifies, selects, and develops risk mitigation activities for risks arising from potential business disruptions. ","Category"],
-"CC 9.1.":["Considers Mitigation of Risks of Business Disruption: Risk mitigation activities include the development of planned policies, procedures, communications, and alternative processing solutions to respond to, mitigate, and recover from security events that disrupt business operations. Those policies and procedures include monitoring processes and information and communications to meet the organization's objectives during response, mitigation, and recovery efforts.  ","Current risk assessment","Yes"],
-"CC 9.1.":["Considers the Use of Insurance to Mitigate Financial Impact Risks: The risk management activities consider the use of insurance to offset the financial impact of loss events that would otherwise impair the ability of the organization to meet its objectives.","Current insurance policies","Yes"],
-"CC 9.":["The organization assesses and manages risks associated with vendors and business partners. ","Category"],
-"CC 9.2.":["Establishes Requirements for Vendor and Business Partner Engagements: The organization establishes specific requirements for a vendor and business partner engagement that includes:  1. Scope of services and product specifications 2. Roles and responsibilities 3. Compliance requirements 4. Service levels","Current vendor management policies and/or processes","Yes"],
-"CC 9.2.":["Assesses Vendor and Business Partner Risks: The organization assesses, on a periodic basis, the risks that vendors and business partners represent to the achievement of the organization's objectives.  ","Current vendor risk assessment, conducted within the review period","Yes"],
-"CC 9.2.":["Assigns Responsibility and Accountability for Managing Vendors and Business Partners: The organization assigns responsibility and accountability for the management of risks associated with vendors and business partners. ","List of authorized personnel assigned to manage vendor risks","Yes"],
-"CC 9.2.":["Establishes Communication Protocols for Vendors and Business Partners: The organization establishes communication and resolution protocols for service or product issues related to vendors and business partners.  ","Current vendor management policies and/or processes","Yes"],
-"CC 9.2.":["Establishes Exception Handling Procedures From Vendors and Business Partners: The organization establishes exception handling procedures for service or product issues related to vendors and business partners. ","Current vendor management policies and/or processes","Yes"],
-"CC 9.2.":["Assesses Vendor and Business Partner Performance: The organization periodically assesses the performance of vendors and business partners. ","Third-party attestation reports for all key vendors (SOC 2, ISO 27001, PCI DSS) and management reviews of the reports","Yes"],
-"CC 9.2.":["Implements Procedures for Addressing Issues Identified During Vendor and Business Partner Assessments: The organization implements procedures for addressing issues identified with vendor and business partner relationships.   ","Current vendor management policies and/or processes","Yes"],
-"CC 9.2.":["Implements Procedures for Terminating Vendor and Business Partner Relationships: The organization implements procedures for terminating vendor and business partner relationships.","Current vendor management policies and/or processes","Yes"],
-"CC 9.2.":["Obtains Confidentiality Commitments from Vendors and Business Partners: The organization obtains confidentiality commitments that are consistent with the organization's confidentiality commitments and requirements from vendors and business partners who have access to confidential information. ","5 SLAs or MSAs communicating commitments to customers and internal/external users","Yes"],
-"CC 9.2.1":["Assesses Compliance With Confidentiality Commitments of Vendors and Business Partners: On a periodic and as-needed basis, the organization assesses compliance by vendors and business partners with the organization's confidentiality commitments and requirements. ","Third-party attestation reports for all key vendors (SOC 2, ISO 27001, PCI DSS) and management reviews of the reports","Yes"],
-"CC 9.2.1":["Obtains Privacy Commitments from Vendors and Business Partners: The organization obtains privacy commitments, consistent with the organization's privacy commitments and requirements, from vendors and business partners who have access to personal information. ","5 SLAs or MSAs communicating commitments to customers and internal/external users","Yes"],
-"CC 9.2.1":["Assesses Compliance with Privacy Commitments of Vendors and Business Partners: On a periodic and as-needed basis, the organization assesses compliance by vendors and business partners with the organization's privacy commitments and requirements and takes corrective action as necessary.","Third-party attestation reports for all key vendors (SOC 2, ISO 27001, PCI DSS) and management reviews of the reports","Yes"],
-"A 1.":["The organization maintains, monitors, and evaluates current processing capacity and use of system components (infrastructure, data, and software) to manage capacity demand and to enable the implementation of additional capacity to help meet its objectives. ","Category"],
-"A 1.1.":["Measures Current Usage: The use of the system components is measured to establish a baseline for capacity management and to use when evaluating the risk of impaired availability due to capacity constraints. ","Name and current version of capacity monitoring system","Yes"],
-"A 1.1.":["Forecasts Capacity: The expected average and peak use of system components is forecasted and compared to system capacity and associated tolerances. Forecasting considers capacity in the event of the failure of system components that constrain capacity. ","Screenshot of current capacity monitoring and alerts settings; screenshot of authorized personnel who receive emails, notifications, and/or alerts","Yes"],
-"A 1.1.":["Makes Changes Based on Forecasts: The system change management process is initiated when forecasted usage exceeds capacity tolerances. ","Current network monitoring policy and/or processes","Yes"],
-"A 1.":["The organization authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data back-up processes, and recovery infrastructure to meet its objectives.  ","Category"],
-"A 1.2.":["Identifies Environmental Threats: As part of the risk assessment process, management identifies environmental threats that could impair the availability of the system, including threats resulting from adverse weather, failure of environmental control systems, electrical discharge, fire, and water.  ","Current environmental safeguards policy and/or processes","Yes"],
-"A 1.2.":["Designs Detection Measures: Detection measures are implemented to identify anomalies that could result from environmental threat events. ","Current environmental safeguards in place, including smoke detectors, sprinkler systems, temperature monitroing, backup generators, etc. ","Yes"],
-"A 1.2.":["Implements and Maintains Environmental Protection Mechanisms: Management implements and maintains environmental protection mechanisms to prevent and mitigate against environmental events.  ","Most recent inspection or maintenance reports for fire, HVAC, and generators; photograph of current fire extinguisher inspection tags","Yes"],
-"A 1.2.":["Implements Alerts to Analyze Anomalies: Management implements alerts that are communicated to personnel for analysis to identify environmental threat events.","Screenshot of current capacity monitoring and alerts settings; screenshot of authorized personnel who receive emails, notifications, and/or alerts","Yes"],
-"A 1.2.":["Responds to Environmental Threat Events: Procedures are in place for responding to environmental threat events and for evaluating the effectiveness of those policies and procedures on a periodic basis. This includes automatic mitigation systems (for example, uninterruptable power system and generator back-up subsystem).","Screenshot of environmental monitoring system software control panel; system alerts generated within the review period ","Yes"],
-"A 1.2.":["Communicates and Reviews Detected Environmental Threat Events: Detected environmental threat events are communicated to and reviewed by the individuals responsible for the management of the system, and actions are taken, if necessary.","Screenshot of environmental monitoring system software control panel; system alerts generated within the review period ","Yes"],
-"A 1.2.":["Determines Data Requiring Backup: Data is evaluated to determine whether backup is required. ","Current list of data and critical system fiiles that are backed up and the backup frequency","Yes"],
-"A 1.2.":["Performs Data Backup: Procedures are in place for backing up data, monitoring to detect back-up failures, and initiating corrective action when such failures occur. ","Current backup policies and/or processes","Yes"],
-"A 1.2.":["Addresses Offsite Storage: Back-up data is stored in a location at a distance from its principal storage location sufficient that the likelihood of a security or environmental threat event affecting both sets of data is reduced to an appropriate level.  ","Description of offsite backup location and configuration","Yes"],
-"A 1.2.1":["Implements Alternate Processing Infrastructure: Measures are implemented for migrating processing to alternate infrastructure in the event normal processing infrastructure becomes unavailable.  ","Current disaster recovery and/or business continuity plan","Yes"],
-"A 1.":["The organization tests recovery plan procedures supporting system recovery to meet its objectives.  ","Category"],
-"A 1.3.":["Implements Business Continuity Plan Testing: Business continuity plan testing is performed on a periodic basis. The testing includes:  1. Development of testing scenarios based on threat likelihood and magnitude  2. Consideration of system components from across the entity that can impair the availability  3. Scenarios that consider the potential for the lack of availability of key personnel  4. Revision of continuity plans and systems based on test results","Annual disaster recovery/business continuity plan testing results (dated within the last 12 months)","Yes"],
-"A 1.3.":["Tests Integrity and Completeness of Back-Up Data: The integrity and completeness of back-up information is tested on a periodic basis. ","Quarterly backup integrity testing","Yes"],
-"C 1.":["The organization identifies and maintains confidential information to meet the organization's objectives related to confidentiality. ","Category"],
-"C 1.1.":["Identifies Confidential information: Procedures are in place to identify and designate confidential information when it is received or created and to determine the period over which the confidential information is to be retained.","Current data classification policy and/or processes","Yes"],
-"C 1.1.":["Protects Confidential Information from Destruction: Procedures are in place to protect confidential information from erasure or destruction during the specified retention period of the information. ","Current data protection policy and/or processes","Yes"],
-"C 1.":["The organization disposes of confidential information to meet the organization's objectives related to confidentiality.  ","Category"],
-"C 1.2.":["Identifies Confidential Information for Destruction: Procedures are in place to identify confidential information requiring destruction when the end of the retention period is reached. ","Current data retention policy and/or processes","Yes"],
-"C 1.2.":["Destroys Confidential Information: Procedures are in place to erase or otherwise destroy confidential information that has been identified for destruction.","Current data disposal policy and/or processes","Yes"],
+  "CC 1.1": {
+    "rule": "The organization demonstrates a commitment to integrity and ethical values",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 1.1.1": {
+    "rule": "Sets the Tone at the Top: The board of directors and management demonstrate through their directives, actions, and behavior the importance of integrity and ethical values to support the funtioning of the system of internal controls. ",
+    "type": "Item",
+    "evidence": [
+      "List of senior and/or executive management, as well as a list of all members of the Board of Directors",
+      "Agendas and meeting minutes from 3 executive and/or board meetings held during the previous 6 months, with sensitve data redacted"
+    ],
+    "required": true
+  },
+  "CC 1.1.2": {
+    "rule": "Establishes Standards of Conduct: The expectations of the board of directors and senior management concerning integirty and ethical values are defined in the organization's standards of conduct and understood at all levels of the organization, as wel as by outsourced service providers and business partners.",
+    "type": "Item",
+    "evidence": [
+      "Current employee handbook (updated within the last 12 months)",
+      "Current Code of Conduct policy (only if not included as part of the employee handbook)",
+      "Handbook acknowledgement form (only if not included as part of the employee handbook)"
+    ],
+    "required": true
+  },
+  "CC 1.1.3": {
+    "rule": "Evaluates Adherence to Standards of Conduct: Processes are in place to evaluate individual and team performance against the organization's expected standards of conduct. ",
+    "type": "Item",
+    "evidence": [
+      "Blank employee performance review or evaluation form"
+    ],
+    "required": true
+  },
+  "CC 1.1.4": {
+    "rule": "Addresses Deviations in a Timely Manner: Deviations from expected standards of conduct are identified and remedied in a timely and consistent manner. ",
+    "type": "Item",
+    "evidence": [
+      "Disciplinary policies and procedures (only if not included as part of the employee handbook)"
+    ],
+    "required": true
+  },
+  "CC 1.1.5": {
+    "rule": "Considers Contractors and Vendor Employees in Demonstrating its Commitment: Management and the board of directors consider the use of contractors and vendor employees in its processes for establishing standards of conduct, evaluating adherence to standards, and addressing deviations in a timely manner. ",
+    "type": "Item",
+    "evidence": [
+      "Blank contractor or vendor employee agreement",
+      "Contractor or vendor employee new hire procedures"
+    ],
+    "required": true
+  },
+  "CC 1.2": {
+    "rule": "The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal controls.",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 1.2.1": {
+    "rule": "Establishes Oversight Responsibilities: The board of directors identifies and accepts its oversight responsibilities in relation to established requirements and expectations. ",
+    "type": "Item",
+    "evidence": [
+      "Agendas and meeting minutes from 3 executive and/or board meetings held during the previous 6 months, with sensitve data redacted"
+    ],
+    "required": true
+  },
+  "CC 1.2.2": {
+    "rule": "Accepts Relevant Expertise: The board of directors defines, maintains, and periodically evaluates the skills and expertise needed among its members to enable them to ask probing questions of senior management and take commensurate action.",
+    "type": "Item",
+    "evidence": [
+      "Board of Director bylaws and/or charter"
+    ],
+    "required": true
+  },
+  "CC 1.2.3": {
+    "rule": "Operates Independently: The board of directors has sufficient members who are independent from management and objective in evaluations and decision making. ",
+    "type": "Item",
+    "evidence": [
+      "A list of all members of the board of directors and biographies, preferably from a published source"
+    ],
+    "required": true
+  },
+  "CC 1.2.4": {
+    "rule": "Supplements Board Expertise: The board of directors supplements its expertise relevant to security, availability, processing integrity, confidentiality, and privacy, as needed, through the use of a subcommittee and/or consultants. ",
+    "type": "Item",
+    "evidence": [
+      "Listing of organization's committees reporting to the board of directors"
+    ],
+    "required": true
+  },
+  "CC 1.3": {
+    "rule": "Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 1.3.1": {
+    "rule": "Considers All Structures of the Entity: Management and the board of directors consider the multiple structures used (including operating units, legal entities, geographic distribution, and outsourced service providers) to support the achievement of objectives. ",
+    "type": "Item",
+    "evidence": [
+      "Current org chart with date of last revision (must have been updated within the last 12 months)"
+    ],
+    "required": true
+  },
+  "CC 1.3.2": {
+    "rule": "Establishes Reporting Lines: Management designs and evaluates lines of reporting for each entity structure to enable executiion of authorities and responsibilities and flow of information to manage the activities of the entity. ",
+    "type": "Item",
+    "evidence": [
+      "Evidence that management has reviewed the org chart"
+    ],
+    "required": true
+  },
+  "CC 1.3.3": {
+    "rule": "Defines, Assigns, and Limits Authorities and Responsibilities: Management and the board of directors delegate authority, define responsbilities, and use appropriate processes and technology to assign responsibility and segregate duties as necessary at various levels of the organization.  ",
+    "type": "Item",
+    "evidence": [
+      "Sample of 5 current job descriptions",
+      "Policies or processes for updating job descriptions"
+    ],
+    "required": true
+  },
+  "CC 1.3.4": {
+    "rule": "Addresses Specific Requirements When Defining Authorities and Responsibilities: Management and the board of directors consider requirements relevant to security, availability, processing integrity, confidentiality, and privacy when defining authorities and responsibilities. ",
+    "type": "Item",
+    "evidence": [
+      "Within job descriptions, show any requirements relevant to security, availability, and confidentiality (if applicable)"
+    ],
+    "required": true
+  },
+  "CC 1.3.5": {
+    "rule": "Considers Interactions With External Parties When Establishing Structures, Reporting Lines, Authorities, and Responsibilities: Management and the board of directors consider the need for the organization to interact with and monitor the activities of external parties when establishing structures, reporting lines, authorities, and responsibilities.",
+    "type": "Item",
+    "evidence": [
+      "Name, title, and job description for current employee responsible for vendor management"
+    ],
+    "required": true
+  },
+  "CC 1.4": {
+    "rule": "The organization demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 1.4.1": {
+    "rule": "Establishes Policies and Practices: Policies and practices reflect expectations of competence necessary to support the achievement of objectives.",
+    "type": "Item",
+    "evidence": [
+      "Sample of 5 current job descriptions"
+    ],
+    "required": true
+  },
+  "CC 1.4.2": {
+    "rule": "Evaluates Competence and Addresses Shortcomings: The board of directors and management evaluate competence across the organization and in outsourced service providers in relation to established policies and practices and act as necessary to address shortcomings.",
+    "type": "Item",
+    "evidence": [
+      "Agendas and meeting minutes from 1 executive and/or board meetings held during the previous 6 months, with sensitve data redacted"
+    ],
+    "required": true
+  },
+  "CC 1.4.3": {
+    "rule": "Attracts, Develops, and Retains Individuals: The organization provides the mentoring and training needed to attract, develop, and retain sufficient and competent personnel and outsourced service providers to support the achievement of objectives.",
+    "type": "Item",
+    "evidence": [
+      "Evidence of annual security awareness training for employees (attendance logs, quizzes, training curriculum)"
+    ],
+    "required": true
+  },
+  "CC 1.4.4": {
+    "rule": "Plans and Prepares for Succession: Senior management and the board of directors develop contingency plans for assignments of responsibility important for internal controls.",
+    "type": "Item",
+    "evidence": [
+      "Business contingecy plan, charter, or equivalent relevant to internal controls"
+    ],
+    "required": true
+  },
+  "CC 1.4.5": {
+    "rule": "Considers the Background of Individuals: The organization considers the background of potential and existing personnel, contractors, and vendor employees when determining whether to employ and retain the individuals. ",
+    "type": "Item",
+    "evidence": [
+      "Blank background check authorization form"
+    ],
+    "required": true
+  },
+  "CC 1.4.6": {
+    "rule": "Considers the Technical Competency of Individuals: The organization considers the technical competency of potential and existing personnel, contractors, and vendor employees when determining whether to employ and retain the individuals. ",
+    "type": "Item",
+    "evidence": [
+      "Current hiring policy and procedures, including new hire checklist (if applicable)"
+    ],
+    "required": true
+  },
+  "CC 1.4.7": {
+    "rule": "Provides Training to Maintain Technical Competencies: The organization provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.",
+    "type": "Item",
+    "evidence": [
+      "Evidence of annual security awareness training for employees (attendance logs, quizzes, training curriculum)"
+    ],
+    "required": true
+  },
+  "CC 1.5": {
+    "rule": "The organization holds individuals accountable for their intenal control responsibilities in the pursuite of objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 1.5.1": {
+    "rule": "Enforces Accountability Through Structures, Authorities, and Responsibilities: Management and the board of directors establish the mechanisms to communicate and hold individuals accountable for performance of internal control responsibilities across the organization and implement corrective action as necessary.",
+    "type": "Item",
+    "evidence": [
+      "Blank employee evaluation or performance review form",
+      "5 department meeting minutes conducted within the last 6 months"
+    ],
+    "required": true
+  },
+  "CC 1.5.2": {
+    "rule": "Establishes Performance Measures, Incentives, and Rewards: Management and the board of directors establish performance measures, incentives, and other rewards appropriate for responsibilities at all levels of the organization, reflecting appropriate dimensions of performance and expected standards of conduct, and considering the achievement of both short- and long-term objectives.",
+    "type": "Item",
+    "evidence": [
+      "Employee manual or handbook, including code of conduct policy"
+    ],
+    "required": true
+  },
+  "CC 1.5.3": {
+    "rule": "Evaluates Performance Measures, Incentives, and Rewards for Ongoing Relevance: Management and the board of directors align incentives and rewards with the fulfillment of internal control responsibilities in the achievement of objectives.",
+    "type": "Item",
+    "evidence": [
+      "Policy or process used by management and the board of directors to align incentives for achieving department and individual goals with rewards and promotions"
+    ],
+    "required": true
+  },
+  "CC 1.5.4": {
+    "rule": "Considers Excessive Pressures: Management and the board of directors evaluate and adjust pressures associated with the achievement of objectives as they assign responsibilities, develop performance measures, and evaluate performance.",
+    "type": "Item",
+    "evidence": [
+      "Policy or process used by management and the board of directors to evaluate and adjust both department and individual incentives for achieving company objectives"
+    ],
+    "required": true
+  },
+  "CC 1.5.5": {
+    "rule": "Evaluates Performance and Rewards or Disciplines Individuals: Management and the board of directors evaluate performance of internal control responsibilities, including adherence to standards of conduct and expected levels of competence, and provide rewards or exercise disciplinary action, as appropriate.",
+    "type": "Item",
+    "evidence": [
+      "Policy or process for providing employee feedback and responsibilities following an employee evaluation"
+    ],
+    "required": true
+  },
+  "CC 2.1": {
+    "rule": "The organization obtains or generates and uses relevant, quality information to support internal control functions. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 2.1.1": {
+    "rule": "Identifies Information Requirements: A process is in place to identify the information required and expected to support the functioning of the other components of internal control and the achievement of the organization's objectives.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of the location of company policies and procedures (document management system, internal wiki, Google Drive, or other file sharing location)"
+    ],
+    "required": true
+  },
+  "CC 2.1.2": {
+    "rule": "Captures Internal and External Sources of Data: Information systems capture internal and external sources of data.",
+    "type": "Item",
+    "evidence": [
+      "Procedure for capturing data for processing"
+    ],
+    "required": true
+  },
+  "CC 2.1.3": {
+    "rule": "Processes Relevant Data Into Information: Information systems process and transform relevant data into information.",
+    "type": "Item",
+    "evidence": [
+      "Procedure for transforming data into information"
+    ],
+    "required": true
+  },
+  "CC 2.1.4": {
+    "rule": "Maintains Quality Throughout Processing: Information systems produce information that is timely, current, accurate, complete, accessible, protected, verifiable, and retained. Information is reviewed to assess its relevance in supporting the internal control components. ",
+    "type": "Item",
+    "evidence": [
+      "Procedure for producing information that is timely, accurate, complete, accessible, protected, verifiable, and properly retained"
+    ],
+    "required": true
+  },
+  "CC 2.2": {
+    "rule": "The organization communicates information internally, including the objectives and responsibilities for internal controls, that are necessary to support the functions of internal controls. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 2.2.1": {
+    "rule": "Communicates Internal Control Information: A process is in place to communicate required information to enable all personnel to understand and carry out their internal control responsibilities.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of the location of company policies and procedures (document management system, internal wiki, Google Drive, or other file sharing location)"
+    ],
+    "required": true
+  },
+  "CC 2.2.2": {
+    "rule": "Communicates With the Board of Directors: Communication exists between management and the board of directors so that both have information needed to fulfill their roles with respect to the organization's objectives.",
+    "type": "Item",
+    "evidence": [
+      "Agendas and/or meeting minutes from 1 meeting between management and Board of Directors held during the previous 3 months, with sensitve data redacted"
+    ],
+    "required": true
+  },
+  "CC 2.2.3": {
+    "rule": "Provides Separate Communication Lines: Separate communication channels, such as whistleblower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of anonymous or confidential external communication channel (e.g., anonymous company email, whistleblower hotline, and etc.)"
+    ],
+    "required": true
+  },
+  "CC 2.2.4": {
+    "rule": "Selects Relevant Method of Communication: The method of communication considers the timing, audience, and nature of information.",
+    "type": "Item",
+    "evidence": [
+      "Policies and/or procedures for internal and external communications"
+    ],
+    "required": true
+  },
+  "CC 2.2.5": {
+    "rule": "Communicates Responsibilities: Organizational personnel with responsibility for designing, developing, implementing, operating, maintaining, or monitoring system controls receive communications about their responsibilities, including changes in their responsibilities, and have the information necessary to carry out those responsibilities. ",
+    "type": "Item",
+    "evidence": [
+      "Name, title, and job description for person responsible for developing and maintaining system security policies, as well as any changes or updates to those policies"
+    ],
+    "required": true
+  },
+  "CC 2.2.6": {
+    "rule": "Communicates Information on Reporting Failures, Incidents, Concerns, and Other Matters: Organizational personnel are provided with information on how to report systems failures, incidents, concerns, and other complaints to personnel.",
+    "type": "Item",
+    "evidence": [
+      "Incident response policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 2.2.7": {
+    "rule": "Communicates Objectives and Changes to Objectives: The organization communicates its objectives and any changes to those objectives to personnel in a timely manner. ",
+    "type": "Item",
+    "evidence": [
+      "List of authorized personnel responsible for changes to confidentiality processes"
+    ],
+    "required": true
+  },
+  "CC 2.2.8": {
+    "rule": "Communicates Information to Improve Security Knowledge and Awareness: The organization communicates information to improve security knowledge and awareness and to model appropriate security behaviors to personnel through a security awareness training program. ",
+    "type": "Item",
+    "evidence": [
+      "Evidence of annual security awareness training for employees (attendance logs, quizzes, training curriculum)"
+    ],
+    "required": true
+  },
+  "CC 2.2.9": {
+    "rule": "Communicates Information About System Operation and Boundaries: The organization prepares and communicates information about the design and operation of the system and its boundaries to authorized personnel to enable them to understand their role in the system and the results of system operation.",
+    "type": "Item",
+    "evidence": [
+      "Current system description"
+    ],
+    "required": true
+  },
+  "CC 2.2.10": {
+    "rule": "Communicates System Objectives: The organization communicates its objectives to personnel to enable them to carry out their responsibilities. ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of the location of company policies and procedures (document management system, internal wiki, Google Drive, or other file sharing location)"
+    ],
+    "required": true
+  },
+  "CC 2.2.11": {
+    "rule": "Communicates System Changes: System changes that affect responsibilities or the achievement of the organization's objectives are communicated in a timely manner. ",
+    "type": "Item",
+    "evidence": [
+      "5 recent communications to internal stakeholders about changes that impact the system and information assets"
+    ],
+    "required": true
+  },
+  "CC 2.3": {
+    "rule": "The organization communicates with external parties regarding matters that affect the function of internal controls. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 2.3.1": {
+    "rule": "Communicates to External Parties: Processes are in place to communicate relevant and timely information to external parties, including shareholders, partners, owners, regulators, customers, financial analysts, and other external parties.",
+    "type": "Item",
+    "evidence": [
+      "5 SLAs or MSAs communicating commitments to customers and internal/external users"
+    ],
+    "required": true
+  },
+  "CC 2.3.2": {
+    "rule": "Enables Inbound Communications: Open communication channels allow input from customers, consumers, suppliers, external auditors, regulators, financial analysts, and others, providing management and the board of directors with relevant information.",
+    "type": "Item",
+    "evidence": [
+      "5 recent communications to internal stakeholders about changes that impact the system and information assets"
+    ],
+    "required": true
+  },
+  "CC 2.3.3": {
+    "rule": "Communicates With the Board of Directors: Relevant information resulting from assessments conducted by external parties is communicated to the board of directors.",
+    "type": "Item",
+    "evidence": [
+      "Communications to Board of Directors informing them of relevant results of external assessments"
+    ],
+    "required": true
+  },
+  "CC 2.3.4": {
+    "rule": "Provides Separate Communication Lines: Separate communication channels, such as whistle-blower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of anonymous or confidential external communication channel (e.g., anonymous company email, whistleblower hotline, and etc.)"
+    ],
+    "required": true
+  },
+  "CC 2.3.5": {
+    "rule": "Selects Relevant Method of Communication: The method of communication considers the timing, audience, and nature of the communication and legal, regulatory, and fiduciary requirements and expectations. ",
+    "type": "Item",
+    "evidence": [
+      "Policies and/or procedures for internal and external communications"
+    ],
+    "required": true
+  },
+  "CC 2.3.6": {
+    "rule": "Communicates Objectives Related to Confidentiality and Changes to Objectives: The organization communicates, to external users, vendors, business partners and others whose products and services are part of the system, objectives and changes to objectives related to confidentiality.  ",
+    "type": "Item",
+    "evidence": [
+      "5 recent communications to internal stakeholders about changes that impact confidentiality"
+    ],
+    "required": true
+  },
+  "CC 2.3.7": {
+    "rule": "Communicates Objectives Related to Privacy and Changes to Objectives: The organization communicates, to external users, vendors, business partners and others whose products and services are part of the system, objectives related to privacy and changes to those objectives. ",
+    "type": "Item",
+    "evidence": [
+      "5 recent communications to internal stakeholders about changes that impact privacy"
+    ],
+    "required": true
+  },
+  "CC 2.3.8": {
+    "rule": "Communicates Information About System Operation and Boundaries: The organization prepares and communicates information about the design and operation of the system and its boundaries to authorized external users to permit users to understand their role in the system and the results of system operation. ",
+    "type": "Item",
+    "evidence": [
+      "Current system description"
+    ],
+    "required": true
+  },
+  "CC 2.3.9": {
+    "rule": "Communicates System Objectives: The organization communicates its system objectives to appropriate external users. ",
+    "type": "Item",
+    "evidence": [
+      "5 recent communications to external stakeholders about system objectives"
+    ],
+    "required": true
+  },
+  "CC 2.3.10": {
+    "rule": "Communicates System Responsibilities: External users with responsibility for designing, developing, implementing, operating, maintaining, and monitoring system controls receive communications about their responsibilities and have the information necessary to carry out those responsibilities.",
+    "type": "Item",
+    "evidence": [
+      "Vendor management policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 2.3.11": {
+    "rule": "Communicates Information on Reporting System Failures, Incidents, Concerns, and Other Matters: External users are provided with information on how to report systems failures, incidents, concerns, and other complaints to appropriate personnel. ",
+    "type": "Item",
+    "evidence": [
+      "Policies and/or procedures for how customers report incidents, system failures, bugs, and other complaints. "
+    ],
+    "required": true
+  },
+  "CC 3.1": {
+    "rule": "The organization specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 3.1.1": {
+    "rule": "Reflects Management's Choices: Operations objectives reflect management's choices about structure, industry considerations, and performance of the organization.",
+    "type": "Item",
+    "evidence": [
+      "Current risk management policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 3.1.2": {
+    "rule": "Considers Tolerances for Risk: Management considers the acceptable levels of variation relative to the achievement of operations objectives.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 3.1.3": {
+    "rule": "Includes Operations and Financial Performance Goals: The organization reflects the desired level of operations and financial performance for the entity within operations objectives.",
+    "type": "Item",
+    "evidence": [
+      "Example meeting minutes and/or agenda utilized to discuss operational objectives, goals, or metrics"
+    ],
+    "required": true
+  },
+  "CC 3.1.4": {
+    "rule": "Forms a Basis for Committing of Resources: Management uses operations objectives as a basis for allocating resources needed to attain desired operations and financial performance.",
+    "type": "Item",
+    "evidence": [
+      "Example meeting minutes and/or agenda utilized to discuss resources (i.e., people, technology, process) to meet operational objectives, goals, or metrics"
+    ],
+    "required": true
+  },
+  "CC 3.1.5": {
+    "rule": "Complies With Applicable Accounting Standards: Financial reporting objectives are consistent with accounting principles suitable and available for that organization. The accounting principles selected are appropriate in the circumstances.",
+    "type": "Item",
+    "evidence": [
+      "Accounting and/or finance operational procedures document"
+    ],
+    "required": true
+  },
+  "CC 3.1.6": {
+    "rule": "Considers Materiality: Management considers materiality in financial statement presentation.",
+    "type": "Item",
+    "evidence": [
+      "Example meeting minutes and/or agenda utilized to discuss financial objectives, goals, or metrics"
+    ],
+    "required": true
+  },
+  "CC 3.1.7": {
+    "rule": "Reflects Organizational Activities: External reporting reflects the underlying transactions and events to show qualitative characteristics and assertions.",
+    "type": "Item",
+    "evidence": [
+      "Accounting and/or finance operational procedures document"
+    ],
+    "required": true
+  },
+  "CC 3.1.8": {
+    "rule": "Complies With Externally Established Frameworks: Management establishes objectives consistent with laws and regulations or standards and frameworks of recognized external organizations.",
+    "type": "Item",
+    "evidence": [
+      "Any regulatory or compliance requirements applicable to the organization"
+    ],
+    "required": true
+  },
+  "CC 3.1.9": {
+    "rule": "Considers the Required Level of Precision: Management reflects the required level of precision and accuracy suitable for user needs and based on criteria established by third parties in nonfinancial reporting.",
+    "type": "Item",
+    "evidence": [
+      "Accounting and/or finance operational procedures document"
+    ],
+    "required": true
+  },
+  "CC 3.1.10": {
+    "rule": "Reflects Organizational Activities: External reporting reflects the underlying transactions and events within a range of acceptable limits.",
+    "type": "Item",
+    "evidence": [
+      "Accounting and/or finance operational procedures document"
+    ],
+    "required": true
+  },
+  "CC 3.1.11": {
+    "rule": "Reflects Management's Choices: Internal reporting provides management with accurate and complete information regarding management's choices and information needed in managing the organization.",
+    "type": "Item",
+    "evidence": [
+      "Example meeting minutes and/or agenda utilized to discuss financial objectives, goals, or metrics"
+    ],
+    "required": true
+  },
+  "CC 3.1.12": {
+    "rule": "Considers the Required Level of Precision: Management reflects the required level of precision and accuracy suitable for user needs in nonfinancial reporting objectives and materiality within financial reporting objectives.",
+    "type": "Item",
+    "evidence": [
+      "Accounting and/or finance operational procedures document"
+    ],
+    "required": true
+  },
+  "CC 3.1.13": {
+    "rule": "Reflects Organizational Activities: Internal reporting reflects the underlying transactions and events within a range of acceptable limits.",
+    "type": "Item",
+    "evidence": [
+      "Example meeting minutes and/or agenda utilized to discuss financial objectives, goals, or metrics"
+    ],
+    "required": true
+  },
+  "CC 3.1.14": {
+    "rule": "Reflects External Laws and Regulations: Laws and regulations establish minimum standards of conduct, which the organzization integrates into compliance objectives.",
+    "type": "Item",
+    "evidence": [
+      "Any regulatory or compliance requirements applicable to the organization"
+    ],
+    "required": true
+  },
+  "CC 3.1.15": {
+    "rule": "Considers Risk Tolerances: Management considers the acceptable levels of variation relative to the achievement of operational objectives.",
+    "type": "Item",
+    "evidence": [
+      "Current risk management policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 3.1.16": {
+    "rule": "Establishes Sub-objectives to Support Objectives: Management identifies sub-objectives related to security, availability, processing integrity, confidentiality, and privacy to support the achievement of the organization's objectives related to reporting, operations, and compliance.",
+    "type": "Item",
+    "evidence": [
+      "Information security policy"
+    ],
+    "required": true
+  },
+  "CC 3.2": {
+    "rule": "The organization identifies risks to the achievement of its objectives across the organization and analyzes risks as a basis for determining how the risks should be managed. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 3.2.1": {
+    "rule": "Includes Organizational, Subsidiary, Division, Operating Unit, and Functional Levels: The organization identifies and assesses risk at the organizational, subsidiary, division, operating unit, and functional levels relevant to the achievement of objectives.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 3.2.2": {
+    "rule": "Analyzes Internal and External Factors: Risk identification considers both internal and external factors and their impact on the achievement of objectives.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 3.2.3": {
+    "rule": "Involves Appropriate Levels of Management: The organization puts into place effective risk assessment mechanisms that involve appropriate levels of management.",
+    "type": "Item",
+    "evidence": [
+      "Evidence of management involvement in the risk assessment process (internal communications such as emails, memos, etc.)"
+    ],
+    "required": true
+  },
+  "CC 3.2.4": {
+    "rule": "Estimates Significance of Risks Identified: Identified risks are analyzed through a process that includes estimating the potential significance of the risk. ",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 3.2.5": {
+    "rule": "Determines How to Respond to Risks: Risk assessment includes considering how the risk should be managed and whether to accept, avoid, reduce, or share the risk.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment policy and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 3.2.6": {
+    "rule": "Identifies and Assesses Criticality of Information Assets and Identifies Threats and Vulnerabilities: The organization's risk identification and assessment process includes: 1. Identifying information assets, including physical devices and systems, virtual devices, software, data and data flows, external information systems, and organizational roles;2. Assessing the criticality of those information assets;3. Identifying the threats to the assets from intentional (including malicious) and unintentional acts and environmental events;4. Identifying vulnerabilities of the identified assets",
+    "type": "Item",
+    "evidence": [
+      "Current inventory of information assets "
+    ],
+    "required": true
+  },
+  "CC 3.2.7": {
+    "rule": "Analyzes Threats and Vulnerabilities From Vendors, Business Partners, and Other Parties: The organization's risk assessment process includes analysis of potential threats and vulnerabilities arising from vendors providing goods and services, as well as threats and vulnerabilities arising from business partners, customers, and others with access to the organization's information systems. ",
+    "type": "Item",
+    "evidence": [
+      "Vulnerability scan or penetration test reports performed within the review period"
+    ],
+    "required": true
+  },
+  "CC 3.2.8": {
+    "rule": "Considers the Significance of the Risk: The orgnization's consideration of the potential significance of the identified risks includes: 1. Determining the criticality of identified assets in meeting objectives'2. Assessing the impact of identified threats and vulnerabilities in meeting objectives;3. Assessing the likelihood of identified threats;4. Determining the risk associated with assets based on asset criticality, threat impact, and likelihood",
+    "type": "Item",
+    "evidence": [
+      "Documentation of risk assessment performed within the review period"
+    ],
+    "required": true
+  },
+  "CC 3.3": {
+    "rule": "The organization considers the potential for fraud in assessing risks to the achievement of objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 3.3.1": {
+    "rule": "Considers Various Types of Fraud: The assessment of fraud considers fraudulent reporting, possible loss of assets, and corruption resulting from the various ways that fraud and misconduct can occur.",
+    "type": "Item",
+    "evidence": [
+      "Fraud assessment policy and/or process"
+    ],
+    "required": true
+  },
+  "CC 3.3.2": {
+    "rule": "Assesses Incentives and Pressures: The assessment of fraud risks considers incentives and pressures.",
+    "type": "Item",
+    "evidence": [
+      "Current fraud assessment (conducted within the review period)"
+    ],
+    "required": true
+  },
+  "CC 3.3.3": {
+    "rule": "Assesses Opportunities: The assessment of fraud risk considers opportunities for unauthorized acquisition, use, or disposal of assets, altering the organization's reporting records, or committing other inappropriate acts.",
+    "type": "Item",
+    "evidence": [
+      "Current fraud assessment (conducted within the review period)"
+    ],
+    "required": true
+  },
+  "CC 3.3.4": {
+    "rule": "Assesses Attitudes and Rationalizations: The assessment of fraud risk considers how management and other personnel might engage in or justify inappropriate actions.",
+    "type": "Item",
+    "evidence": [
+      "Current fraud assessment (conducted within the review period)"
+    ],
+    "required": true
+  },
+  "CC 3.3.5": {
+    "rule": "Considers the Risks Related to the Use of IT and Access to Information: The assessment of fraud risks includes consideration of threats and vulnerabilities that arise specifically from the use of IT and access to information. ",
+    "type": "Item",
+    "evidence": [
+      "Current fraud assessment (conducted within the review period)"
+    ],
+    "required": true
+  },
+  "CC 3.4": {
+    "rule": "The organization identifies and assesses changes that could significantly impact the system of internal controls. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 3.4.1": {
+    "rule": "Assesses Changes in the External Environment: The risk identification process considers changes to the regulatory, economic, and physical environment in which the organization operates.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment (conducted within the review period)"
+    ],
+    "required": true
+  },
+  "CC 3.4.2": {
+    "rule": "Assesses Changes in the Business Model: The organization considers the potential impacts of new business lines, dramatically altered compositions of existing business lines, acquired or divested business operations on the system of internal control, rapid growth, changing reliance on foreign geographies, and new technologies.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment (conducted within the review period)"
+    ],
+    "required": true
+  },
+  "CC 3.4.3": {
+    "rule": "Assesses Changes in Leadership: The organization considers changes in management and respective attitudes and philosophies on the system of internal control.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment (conducted within the review period)"
+    ],
+    "required": true
+  },
+  "CC 3.4.4": {
+    "rule": "Assess Changes in Systems and Technology: The risk identification process considers changes arising from changes in the organization's systems and changes in the technology environment. ",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment (conducted within the review period)"
+    ],
+    "required": true
+  },
+  "CC 3.4.5": {
+    "rule": "Assess Changes in Vendor and Business Partner Relationships: The risk identification process considers changes in vendor and business partner relationships. ",
+    "type": "Item",
+    "evidence": [
+      "Any external reviews performed within the last 12 months, i.e., ISO 27001 or PCI DSS certifications, audit reports"
+    ],
+    "required": true
+  },
+  "CC 4.1": {
+    "rule": "The organization selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 4.1.1": {
+    "rule": "Considers a Mix of Ongoing and Separate Evaluations: Management includes a balance of ongoing and separate evaluations.",
+    "type": "Item",
+    "evidence": [
+      "Incident response policy and/or process, security breach identification and notification policies and/or process, monitoring policies and/or procedures"
+    ],
+    "required": true
+  },
+  "CC 4.1.2": {
+    "rule": "Considers Rate of Change: Management considers the rate of change in business and business processes when selecting and developing ongoing and separate evaluations.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of incident management system ticketing, including name and current version of software",
+      " list of incident tickets generated during the review period"
+    ],
+    "required": true
+  },
+  "CC 4.1.3": {
+    "rule": "Establishes Baseline Understanding: The design and current state of an internal control system are used to establish a baseline for ongoing and separate evaluations.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of monitoring system configuration, including name and current version of software",
+      " system description for monitoring system"
+    ],
+    "required": true
+  },
+  "CC 4.1.4": {
+    "rule": "Uses Knowledgeable Personnel: Evaluators performing ongoing and separate evaluations have sufficient knowledge to understand what is being evaluated.",
+    "type": "Item",
+    "evidence": [
+      "Email or screenshot of notification generated by monitoring system",
+      " list of personnel who receive alerts"
+    ],
+    "required": true
+  },
+  "CC 4.1.5": {
+    "rule": "Integrates With Business Processes: Ongoing evaluations are built into the business processes and adjust to changing conditions.",
+    "type": "Item",
+    "evidence": [
+      "Incident response policy and monitoring policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 4.1.6": {
+    "rule": "Adjusts Scope and Frequency: Management varies the scope and frequency of separate evaluations depending on risk.",
+    "type": "Item",
+    "evidence": [
+      "Policy and/or process for adjusting scope and frequency of evaluations"
+    ],
+    "required": true
+  },
+  "CC 4.1.7": {
+    "rule": "Objectively Evaluates: Separate evaluations are performed periodically to provide objective feedback.",
+    "type": "Item",
+    "evidence": [
+      "Monitoring policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 4.1.8": {
+    "rule": "Considers Different Types of Ongoing and Separate Evaluations: Management uses a variety of different types of ongoing and separate evaluations, including penetration testing, independent certification made against established specifications (for example, ISO certifications), and internal audit assessments.  ",
+    "type": "Item",
+    "evidence": [
+      "Any external evaluations performed within the last 12 months, i.e., ISO 27001 or PCI DSS certifications, audit reports"
+    ],
+    "required": true
+  },
+  "CC 4.2": {
+    "rule": "The organization evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 4.2.1": {
+    "rule": "Assesses Results: Management and the board of directors, as appropriate, assess results of ongoing and separate evaluations.",
+    "type": "Item",
+    "evidence": [
+      "Meeting agendas, minutes, or emails documenting that management and the board of directors assessed evaluation results"
+    ],
+    "required": true
+  },
+  "CC 4.2.2": {
+    "rule": "Communicates Deficiencies: Deficiencies are communicated to parties responsible for taking corrective action and to senior management and the board of directors, as appropriate.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of incident management system ticketing, including name and current version of software"
+    ],
+    "required": true
+  },
+  "CC 4.2.3": {
+    "rule": "Monitors Corrective Action: Management tracks whether deficiencies are remedied on a timely basis.",
+    "type": "Item",
+    "evidence": [
+      "List of incident tickets generated in the review period"
+    ],
+    "required": true
+  },
+  "CC 5.1": {
+    "rule": "The organization selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels.",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 5.1.1": {
+    "rule": "Integrates With Risk Assessment: Control activities help ensure that risk responses that address and mitigate risks are carried out.  ",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment"
+    ],
+    "required": true
+  },
+  "CC 5.1.2": {
+    "rule": "Considers Organization-Specific Factors: Management considers how the environment, complexity, nature, and scope of its operations, as well as the specific characteristics of its organization, affect the selection and development of control activities.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment"
+    ],
+    "required": true
+  },
+  "CC 5.1.3": {
+    "rule": "Determines Relevant Business Processes: Management determines which relevant business processes require control activities.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment"
+    ],
+    "required": true
+  },
+  "CC 5.1.4": {
+    "rule": "Evaluates a Mix of Data Submitted Types: Control activities include a range and variety of controls and may include a balance of approaches to mitigate risks, considering both manual and automated controls, and preventive and detective controls.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment"
+    ],
+    "required": true
+  },
+  "CC 5.1.5": {
+    "rule": "Considers at What Level Activities Are Applied: Management considers control activities at various levels in the organization.",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment"
+    ],
+    "required": true
+  },
+  "CC 5.1.6": {
+    "rule": "Addresses Segregation of Duties: Management segregates incompatible duties, and where such segregation is not practical, management selects and develops alternative control activities.",
+    "type": "Item",
+    "evidence": [
+      "Current org chart with date of last revision (must have been updated within the last 12 months)"
+    ],
+    "required": true
+  },
+  "CC 5.2": {
+    "rule": "The entity also selects and develops general control activities over technology to support the achievement of objectives.",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 5.2.1": {
+    "rule": "Determines Dependency Between the Use of Technology in Business Processes and Technology General Controls: Management understands and determines the dependency and linkage between business processes, automated control activities, and technology general controls.",
+    "type": "Item",
+    "evidence": [
+      "Plans for annual risk assessment, internal/external audit for the calendar year"
+    ],
+    "required": true
+  },
+  "CC 5.2.2": {
+    "rule": "Establishes Relevant Technology Infrastructure Control Activities: Management selects and develops control activities over the technology infrastructure, which are designed and implemented to help ensure the completeness, accuracy, and availability of technology processing.",
+    "type": "Item",
+    "evidence": [
+      "Policies and procedures for infrastructure deployment, development, and approval"
+    ],
+    "required": true
+  },
+  "CC 5.2.3": {
+    "rule": "Establishes Relevant Security Management Process Controls Activities: Management selects and develops control activities that are designed and implemented to restrict technology access rights to authorized users commensurate with their job responsibilities and to protect the organization's assets from external threats.",
+    "type": "Item",
+    "evidence": [
+      "Current access control policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 5.2.4": {
+    "rule": "Establishes Relevant Technology Acquisition, Development, and Maintenance Process Control Activities: Management selects and develops control activities over the acquisition, development, and maintenance of technology and its infrastructure to achieve management\u00e2\u20ac\u2122s objectives.",
+    "type": "Item",
+    "evidence": [
+      "Current service acquisition and maintenance policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 5.3": {
+    "rule": "The organization deploys control activities through policies that establish what is expected and in procedures that put policies into action. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 5.3.1": {
+    "rule": "Establishes Policies and Procedures to Support Deployment of Management \u00e2\u20ac\u02dcs Directives: Management establishes control activities that are built into business processes and employees\u00e2\u20ac\u2122 day-to-day activities through policies establishing what is expected and relevant procedures specifying actions.",
+    "type": "Item",
+    "evidence": [
+      "Policies and/or processes that secure the system and information assets"
+    ],
+    "required": true
+  },
+  "CC 5.3.2": {
+    "rule": "Establishes Responsibility and Accountability for Executing Policies and Procedures: Management establishes responsibility and accountability for control activities with management (or other designated personnel) of the business unit or function in which the relevant risks reside.",
+    "type": "Item",
+    "evidence": [
+      "Blank employee confidentiality agreement or NDA"
+    ],
+    "required": true
+  },
+  "CC 5.3.3": {
+    "rule": "Performs in a Timely Manner: Responsible personnel perform control activities in a timely manner as defined by the policies and procedures.",
+    "type": "Item",
+    "evidence": [
+      "Set of information security policies and procedures"
+    ],
+    "required": true
+  },
+  "CC 5.3.4": {
+    "rule": "Takes Corrective Action: Responsible personnel investigate and act on matters identified as a result of executing control activities.",
+    "type": "Item",
+    "evidence": [
+      "Set of information security policies and procedures"
+    ],
+    "required": true
+  },
+  "CC 5.3.5": {
+    "rule": "Performs Using Competent Personnel: Competent personnel with sufficient authority perform control activities with diligence and continuing focus.",
+    "type": "Item",
+    "evidence": [
+      "Current hiring policy and/or processes, including a new hire checklist"
+    ],
+    "required": true
+  },
+  "CC 5.3.6": {
+    "rule": "Reassesses Policies and Procedures: Management periodically reviews control activities to determine their continued relevance and refreshes them when necessary.",
+    "type": "Item",
+    "evidence": [
+      "Annual review of security policies (dated within the last 12 months)"
+    ],
+    "required": true
+  },
+  "CC 6.1": {
+    "rule": "The organization implements logical access security software, infrastructure, and architectures over protected information assets to protect them from security events to meet the organization's objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 6.1.1": {
+    "rule": "Identifies and Manages the Inventory of Information Assets: The organization identifies, inventories, classifies, and manages information assets.  ",
+    "type": "Item",
+    "evidence": [
+      "Current inventory of information assets "
+    ],
+    "required": true
+  },
+  "CC 6.1.2": {
+    "rule": "Restricts  Logical Access: Logical access to information assets, including hardware, data (at-rest, during processing, or in transmission), software, administrative authorities, mobile devices, output, and offline system components is restricted through the use of access control software and rule sets. ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of login process showing multi-factor authentication enabled"
+    ],
+    "required": true
+  },
+  "CC 6.1.3": {
+    "rule": "Identifies and Authenticates Users: Persons, infrastructure and software are identified and authenticated prior to accessing information assets, whether locally or remotely. ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of system authentication settings for in-scope servers, databases, and production applications"
+    ],
+    "required": true
+  },
+  "CC 6.1.4": {
+    "rule": "Considers Network Segmentation: Network segmentation permits unrelated portions of the organization's information system to be isolated from each other. ",
+    "type": "Item",
+    "evidence": [
+      "Current diagram of in-scope physical and local networks, including all firewalls for production servers (IP addresses partially redacted)"
+    ],
+    "required": true
+  },
+  "CC 6.1.5": {
+    "rule": "Manages Points of Access: Points of access by outside entities and the types of data that flow through the points of access are identified, inventoried, and managed. The types of individuals and systems using each point of access are identified, documented, and managed. ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of current intrusion detection system configuration"
+    ],
+    "required": true
+  },
+  "CC 6.1.6": {
+    "rule": "Restricts Access to Information Assets: Combinations of data classification, separate data structures, port restrictions, access protocol restrictions, user identification, and digital certificates are used to establish access control rules for information assets.  ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of current firewall rules and configurations"
+    ],
+    "required": true
+  },
+  "CC 6.1.7": {
+    "rule": "Manages Identification and Authentication: Identification and authentication requirements are established, documented, and managed for individuals and systems accessing organization information, infrastructure, and software.",
+    "type": "Item",
+    "evidence": [
+      "Set of information security policies/procedures relevant to logical access control and authentication requirements"
+    ],
+    "required": true
+  },
+  "CC 6.1.8": {
+    "rule": "Manages Credentials for Infrastructure and Software: New internal and external infrastructure and software  are registered, authorized, and documented prior to being granted access credentials and implemented on the network or access point. Credentials are removed and access is disabled when access is no longer required or the infrastructure and software are no longer in use. ",
+    "type": "Item",
+    "evidence": [
+      "Set of information security policies/procedures relevant to logical access control and authentication requirements"
+    ],
+    "required": true
+  },
+  "CC 6.1.9": {
+    "rule": "Uses Encryption to Protect Data: The organization uses encryption to supplement other measures used to protect data-at-rest, when such protections are deemed appropriate based on assessed risk.",
+    "type": "Item",
+    "evidence": [
+      "Current encryption configuration for data-at-rest and databases"
+    ],
+    "required": true
+  },
+  "CC 6.1.10": {
+    "rule": "Protects Encryption Keys: Processes are in place to protect encryption keys during generation, storage, use, and destruction.",
+    "type": "Item",
+    "evidence": [
+      "Current encryption key management policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 6.2": {
+    "rule": "Prior to issuing system credentials and granting system access, the organization registers and authorizes new internal and external users whose access is administered by the organization. For those users whose access is administered by the organization, user system credentials are removed when user access is no longer authorized. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 6.2.1": {
+    "rule": "Controls Access Credentials to Protected Assets: Information asset access credentials are created based on an authorization from the system's asset owner or authorized custodian.",
+    "type": "Item",
+    "evidence": [
+      "Current access control policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 6.2.2": {
+    "rule": "Removes Access to Protected Assets When Appropriate: Processes are in place to remove credential access when an individual no longer requires such access.",
+    "type": "Item",
+    "evidence": [
+      "Current termination policy and/or processes, including an offboarding checklist"
+    ],
+    "required": true
+  },
+  "CC 6.2.3": {
+    "rule": "Reviews Appropriateness of Access Credentials: The appropriateness of access credentials is reviewed on a periodic basis for unnecessary and inappropriate individuals with credentials. ",
+    "type": "Item",
+    "evidence": [
+      "Results of user access review performed within the review period"
+    ],
+    "required": true
+  },
+  "CC 6.3": {
+    "rule": "The organization authorizes, modifies, or removes access to data, software, functions, and other protected information assets based on roles, responsibilities, or the system design and changes, giving consideration to the concepts of least privilege and segregation of duties, to meet the organization's objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 6.3.1": {
+    "rule": "Creates or Modifies Access to Protected Information Assets: Processes are in place to create or modify access to protected information assets based on authorization  from the asset\u00e2\u20ac\u2122s owner.",
+    "type": "Item",
+    "evidence": [
+      "Current access control policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 6.3.2": {
+    "rule": "Removes Access to Protected Information Assets: Processes are in place to remove access to protected information assets when an individual no longer requires access.",
+    "type": "Item",
+    "evidence": [
+      "Current termination policy and/or processes, including an offboarding checklist"
+    ],
+    "required": true
+  },
+  "CC 6.3.3": {
+    "rule": "Uses Role-Based Access Controls: Role-based access control is utilized to support segregation of incompatible functions.",
+    "type": "Item",
+    "evidence": [
+      "Current access control policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 6.4": {
+    "rule": "The organization restricts physical access to facilities and protected information assets (for example, data center facilities,  back-up media storage, and other sensitive locations) to authorized personnel to meet the organization's objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 6.4.1": {
+    "rule": "Reviews Physical Access: Processes are in place to periodically review physical access to ensure consistency with job responsibilities.",
+    "type": "Item",
+    "evidence": [
+      "Results of physical access review performed within the review period"
+    ],
+    "required": true
+  },
+  "CC 6.5": {
+    "rule": "The organization discontinues logical and physical protections over physical assets only after the ability to read or recover data and software from those assets has been diminished and is no longer required to meet the organization's objectives.    ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 6.5.1": {
+    "rule": "Identifies Data and Software for Disposal: Procedures are in place to identify data and software stored on equipment to be disposed and to render such data and software unreadable.",
+    "type": "Item",
+    "evidence": [
+      "Current data retention and disposal policy"
+    ],
+    "required": true
+  },
+  "CC 6.5.2": {
+    "rule": "Removes Data and Software From Organizational Control: Procedures are in place to remove data and software stored on equipment to be removed from the physical control of the organization and to render such data and software unreadable.",
+    "type": "Item",
+    "evidence": [
+      "Current data retention and disposal policy"
+    ],
+    "required": true
+  },
+  "CC 6.6": {
+    "rule": "The organization implements logical access security measures to protect against threats from sources outside its system boundaries.  ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 6.6.1": {
+    "rule": "Restricts Access: The types of activities that can occur through a communication channel (for example, FTP site, router port) are restricted. ",
+    "type": "Item",
+    "evidence": [
+      "System description for SFTP, encrypted email, secure web portal",
+      " screenshots of secure data transfer applications"
+    ],
+    "required": true
+  },
+  "CC 6.6.2": {
+    "rule": "Protects Identification and Authentication Credentials: Identification and authentication credentials are protected during transmission outside its system boundaries.",
+    "type": "Item",
+    "evidence": [
+      "Current SSL certificates for production sites"
+    ],
+    "required": true
+  },
+  "CC 6.6.3": {
+    "rule": "Requires Additional Authentication or Credentials: Additional authentication information or credentials are required when accessing the system from outside its boundaries.",
+    "type": "Item",
+    "evidence": [
+      "Evidence of multi-factor authentication for remote access"
+    ],
+    "required": true
+  },
+  "CC 6.6.4": {
+    "rule": "Implements Boundary Protection Systems: Boundary protection systems (for example, firewalls, demilitarized zones, and intrusion detection systems) are implemented to protect external access points from attempts and unauthorized access and are monitored to detect such attempts.",
+    "type": "Item",
+    "evidence": [
+      "Make and model/software name and version of intrusion detection system",
+      " monthly system logs"
+    ],
+    "required": true
+  },
+  "CC 6.7": {
+    "rule": "The organization restricts the transmission, movement, and removal of information to authorized internal and external users and processes, and protects it during transmission, movement, or removal to meet the organization's objectives.   ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 6.7.1": {
+    "rule": "Restricts the Ability to Perform Transmission: Data loss prevention processes and technologies are used to restrict ability to authorize and execute transmission, movement, and removal of information.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of current firewall rules and configurations"
+    ],
+    "required": true
+  },
+  "CC 6.7.2": {
+    "rule": "Uses Encryption Technologies or Secure Communication Channels to Protect Data: Encryption technologies or secured communication channels are used to protect transmission of data and other communications beyond connectivity access points.",
+    "type": "Item",
+    "evidence": [
+      "SSL certificates for production sites"
+    ],
+    "required": true
+  },
+  "CC 6.7.3": {
+    "rule": "Protects Removal Media: Encryption technologies and physical asset protections are used for removable media (such as USB drives and back-up tapes), as appropriate.",
+    "type": "Item",
+    "evidence": [
+      "Current removable media policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 6.7.4": {
+    "rule": "Protects Mobile Devices: Processes are in place to protect mobile devices (such as laptops, smart phones and tablets) that serve as information assets.",
+    "type": "Item",
+    "evidence": [
+      "Current mobile device policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 6.8": {
+    "rule": "The organization implements controls to prevent or detect and act upon the introduction of unauthorized or malicious software to meet the organization's objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 6.8.1": {
+    "rule": "Restricts Application and Software Installation: The ability to install applications and software is restricted to authorized individuals.",
+    "type": "Item",
+    "evidence": [
+      "Current software installation policy and/or processes",
+      " screenshot of configuration that restricts installation of non-approved software"
+    ],
+    "required": true
+  },
+  "CC 6.8.2": {
+    "rule": "Detects Unauthorized Changes to Software and Configuration Parameters: Processes are in place to detect changes to software and configuration parameters that may be indicative of unauthorized or malicious software.",
+    "type": "Item",
+    "evidence": [
+      "Current file integrity policy and/or processes, screenshot of monitoring system configuration showing which files and directories are monitored, screenshot of configuration showing which security personnel are alerted in the event of unauthorized software modification"
+    ],
+    "required": true
+  },
+  "CC 6.8.3": {
+    "rule": "Uses a Defined Change Control Process: A management-defined change control process is used for the implementation of software. ",
+    "type": "Item",
+    "evidence": [
+      "Current software change management policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 6.8.4": {
+    "rule": "Uses Antivirus and Anti-Malware Software: Antivirus and anti-malware software is implemented and maintained to provide for the interception or detection and remediation of malware.",
+    "type": "Item",
+    "evidence": [
+      "Description of current anti-virus systems or software, including which systems are protected",
+      "Screenshot showing anti-virus update and distribution settings for each in-scope production server",
+      "Screenshot showing current virus definition level and anti-virus version number",
+      "Screenshot showing current scanning frequency"
+    ],
+    "required": true
+  },
+  "CC 6.8.5": {
+    "rule": "Scans Information Assets from Outside the Entity for Malware and Other Unauthorized Software\u00e2\u20ac\u201dProcedures are in place to scan information assets that have been transferred or returned to the entity\u00e2\u20ac\u2122s custody for malware and other unauthorized software and to remove any items detected prior to its implementation on the network. ",
+    "type": "Item",
+    "evidence": [
+      "Current information security policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.1": {
+    "rule": "To meet its objectives, the organization uses detection and monitoring procedures to identify: 1. Changes to configurations that result in the introduction of new vulnerabilities; 2. Susceptibilities to newly discovered vulnerabilities",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 7.1.1": {
+    "rule": "Uses Defined Configuration Standards: Management has defined configuration standards. ",
+    "type": "Item",
+    "evidence": [
+      "Current build procedures for hardware and/or software infrastructure"
+    ],
+    "required": true
+  },
+  "CC 7.1.2\"": {
+    "rule": "Monitors Infrastructure and Software: The organization monitors infrastructure and software for noncompliance with the standards, which could threaten the achievement of the organization's objectives.  ",
+    "type": "Item",
+    "evidence": [
+      "Current software and infrastructure non-compliance monitoring policies and procedures "
+    ],
+    "required": true
+  },
+  "CC 7.1.3\"": {
+    "rule": "Implements Change-Detection Mechanisms: The IT system includes a change-detection mechanism (for example, file integrity monitoring tools) to alert personnel to unauthorized modifications of critical system files, configuration files, or content files. ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of change detection tools in place (e.g., file integrity monitoring system)"
+    ],
+    "required": true
+  },
+  "CC 7.1.4\"": {
+    "rule": "Detects Unknown or Unauthorized Components: Procedures are in place to detect the introduction of unknown or unauthorized components.  ",
+    "type": "Item",
+    "evidence": [
+      "Current wireless access security policy"
+    ],
+    "required": true
+  },
+  "CC 7.1.5\"": {
+    "rule": "Conducts Vulnerability Scans: The organization conducts vulnerability scans designed to identify potential vulnerabilities or misconfigurations on a periodic basis and after any significant change in the environment and takes action to remediate identified deficiencies on a timely basis.",
+    "type": "Item",
+    "evidence": [
+      "Current vulnerability scanning policies and/or processes, list of network changes over the review period, vulnerability scan report dated within the review period (or after date of network changes)"
+    ],
+    "required": true
+  },
+  "CC 7.2": {
+    "rule": "The organization monitors system components and the operation of those components for anomalies that are indicative of malicious acts, natural disasters, and errors affecting the organization's ability to meet its objectives; anomalies are analyzed to determine whether they represent security events.",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 7.2.1": {
+    "rule": "Implements Detection Policies, Procedures, and Tools: Detection policies and procedures are defined and implemented, and detection tools are implemented on Infrastructure and software to identify anomalies in the operation or unusual activity on systems. Procedures may include: 1. A defined governance process for security event detection and management that includes provision of resources;2. Use of intelligence sources to identify newly discovered threats and vulnerabilities;3. Logging of unusual system activities",
+    "type": "Item",
+    "evidence": [
+      "Incident response policy and procedures, screenshot of enterprise monitoring monitoring/logging configuration and example logs and alerts"
+    ],
+    "required": true
+  },
+  "CC 7.2.2": {
+    "rule": "Designs Detection Measures: Detection measures are designed to identify anomalies that could result from actual or attempted: 1. Compromise of physical barriers;2. Unauthorized actions of authorized personnel;3. Use of compromised identification and authentication credentials;4. Unauthorized access from outside the system boundaries;5. Compromise of authorized external parties;6. Implementation or connection of unauthorized hardware and software",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy",
+      " or security breach identification, notification, and escalation policies and/or processes  "
+    ],
+    "required": true
+  },
+  "CC 7.2.3": {
+    "rule": "Implements Filters to Analyze Anomalies: Management has implemented procedures to filter, summarize, and analyze anomalies to identify security events.",
+    "type": "Item",
+    "evidence": [
+      "Current intrusion detection system (IDS), including product make and model or software version"
+    ],
+    "required": true
+  },
+  "CC 7.2.4": {
+    "rule": "Monitors Detection Tools for Effective Operation: Management has implemented processes to monitor the effectiveness of detection tools.",
+    "type": "Item",
+    "evidence": [
+      "System generated alerts, notificatons, or emails from the review period"
+    ],
+    "required": true
+  },
+  "CC 7.3": {
+    "rule": "The organization evaluates security events to determine whether they could or have resulted in a failure of the organization to meet its objectives (security incidents) and, if so, takes actions to prevent or address such failures.",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 7.3.1": {
+    "rule": "Responds to Security Incidents: Procedures are in place for responding to security incidents and evaluating the effectiveness of those policies and procedures on a periodic basis. ",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.3.2": {
+    "rule": "Communicates and Reviews Detected Security Events: Detected security events are communicated to and reviewed by the individuals responsible for the management of the security program and actions are taken, if necessary.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of incident management system ticketing, including name and current version of tickeitng software"
+    ],
+    "required": true
+  },
+  "CC 7.3.3": {
+    "rule": "Develops and Implements Procedures to Analyze Security Incidents: Procedures are in place to analyze security incidents and determine system impact.",
+    "type": "Item",
+    "evidence": [
+      "Incident response policy and procedures"
+    ],
+    "required": true
+  },
+  "CC 7.3.4": {
+    "rule": "Assesses the Impact on Personal Information: Detected security events are evaluated to determine whether they could or did result in the unauthorized disclosure or use of personal information and whether there has been a failure to comply with applicable laws or regulations. ",
+    "type": "Item",
+    "evidence": [
+      "Incident response policy and procedures"
+    ],
+    "required": true
+  },
+  "CC 7.3.5": {
+    "rule": "Determines Personal Information Used or Disclosed: When an unauthorized use or disclosure of personal information has occurred, the affected information is identified.  ",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy",
+      " or security breach identification, notification, and escalation policies and/or processes  "
+    ],
+    "required": true
+  },
+  "CC 7.4": {
+    "rule": "The organization responds to identified security incidents by executing a defined incident response program to understand, contain, remediate, and communicate security incidents, as appropriate.  ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 7.4.1": {
+    "rule": "Assigns Roles and Responsibilities: Roles and responsibilities for the design, implementation, maintenance, and execution of the incident response program are assigned, including the use of external resources when necessary.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot showing personnel who receive alerts from monitroing system"
+    ],
+    "required": true
+  },
+  "CC 7.4.2": {
+    "rule": "Contains Security Incidents: Procedures are in place to contain security incidents that actively threaten organizational objectives. ",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.3": {
+    "rule": "Mitigates Ongoing Security Incidents: Procedures are in place to mitigate the effects of ongoing security incidents.",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.4": {
+    "rule": "Ends Threats Posed by Security Incidents: Procedures are in place to end the threats posed by security incidents through closure of the vulnerability, removal of unauthorized access, and other remediation actions. ",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.5": {
+    "rule": "Restores Operations: Procedures are in place to restore data and business operations to an interim state that permits the achievement of organizational objectives.",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.6": {
+    "rule": "Develops and Implements Communication Protocols for Security Incidents: Protocols for communicating security incidents and actions taken to affected parties are developed and implemented to meet the organization's objectives. ",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.7": {
+    "rule": "Obtains Understanding of Nature of Incident and Determines Containment Strategy: An understanding of the nature (for example, the method by which the incident occurred and the affected system resources) and severity of the security incident is obtained to determine the appropriate containment strategy, including: 1. A determination of the appropriate response time frame; 2. The determination and execution of the containment approach",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.8": {
+    "rule": "Remediates Identified Vulnerabilities: Identified vulnerabilities are remediated through the development and execution of remediation activities.  ",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.9": {
+    "rule": "Communicates Remediation Activities: Remediation activities are documented and communicated in accordance with the incident response program. ",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.10": {
+    "rule": "Evaluates the Effectiveness of Incident Response: The design of incident response activities is evaluated for effectiveness on a periodic basis.  ",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.11": {
+    "rule": "Periodically Evaluates Incidents: Periodically, management reviews incidents related to security, availability, processing integrity, confidentiality, and privacy and identifies the need for system changes based on incident patterns and root causes.",
+    "type": "Item",
+    "evidence": [
+      "Current incident response policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 7.4.12": {
+    "rule": "Communicates Unauthorized Use and Disclosure: Events that resulted in unauthorized use or disclosure of personal information are communicated to the data subjects, legal and regulatory authorities, and others as required.  ",
+    "type": "Item",
+    "evidence": [
+      "Blank employee confidentiality or non-disclosure agreement"
+    ],
+    "required": true
+  },
+  "CC 7.4.13": {
+    "rule": "Application of Sanctions: The conduct of individuals and organizations operating under the authority of the organization and involved in the unauthorized use or disclosure of personal information is evaluated and, if appropriate, sanctioned in accordance with organizational policies and legal and regulatory requirements.  ",
+    "type": "Item",
+    "evidence": [
+      "Current disciplinary policy, if not included in employee handbook or code of conduct"
+    ],
+    "required": true
+  },
+  "CC 7.5": {
+    "rule": "The organization identifies, develops, and implements activities to recover from identified security incidents. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 7.5.1": {
+    "rule": "Restores the Affected Environment: The activities restore the affected environment to functional operation by rebuilding systems, updating software, installing patches, and changing configurations, as needed. ",
+    "type": "Item",
+    "evidence": [
+      "Current business continuity and disaster recovery plans"
+    ],
+    "required": true
+  },
+  "CC 7.5.2": {
+    "rule": "Communicates Information About the Event: Communications about the nature of the incident, recovery actions taken, and activities required for the prevention of future security events are made to management and others as appropriate (internal and external).   ",
+    "type": "Item",
+    "evidence": [
+      "Current business continuity and disaster recovery plans"
+    ],
+    "required": true
+  },
+  "CC 7.5.3": {
+    "rule": "Determines Root Cause of the Event: The root cause of the event is determined. ",
+    "type": "Item",
+    "evidence": [
+      "Current business continuity and disaster recovery plans"
+    ],
+    "required": true
+  },
+  "CC 7.5.4": {
+    "rule": "Implements Changes to Prevent and Detect Recurrences: Additional architecture or changes to preventive and detective controls, or both, are implemented to prevent and detect recurrences on a timely basis.  ",
+    "type": "Item",
+    "evidence": [
+      "Current business continuity and disaster recovery plans"
+    ],
+    "required": true
+  },
+  "CC 7.5.5": {
+    "rule": "Improves Response and Recovery Procedures: Lessons learned are analyzed, and the incident response plan and recovery procedures are improved. ",
+    "type": "Item",
+    "evidence": [
+      "Current business continuity and disaster recovery plans"
+    ],
+    "required": true
+  },
+  "CC 7.5.6": {
+    "rule": "Implements Incident Recovery Plan Testing: Incident recovery plan testing is performed on a periodic basis. The testing includes: 1. Development of testing scenarios based on threat likelihood and magnitude ;2. Consideration of relevant system components from across the entity that can impair availability ;3. Scenarios that consider the potential for the lack of availability of key personnel ;4. Revision of continuity plans and systems based on test results",
+    "type": "Item",
+    "evidence": [
+      "Results of disaster recovery or business continuity plan testing within the review period"
+    ],
+    "required": true
+  },
+  "CC 8.1": {
+    "rule": "The organization authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.  ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 8.1.1": {
+    "rule": "Manages Changes Throughout the System Lifecycle: A process for managing system changes throughout the lifecycle of the system and its components (infrastructure, data, software and procedures) is used to support system availability and processing integrity. ",
+    "type": "Item",
+    "evidence": [
+      "Current system change policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 8.1.2": {
+    "rule": "Authorizes Changes: A process is in place to authorize system changes prior to development.",
+    "type": "Item",
+    "evidence": [
+      "Current system change policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 8.1.3": {
+    "rule": "Designs and Develops Changes: A process is in place to design and develop system changes.",
+    "type": "Item",
+    "evidence": [
+      "Current system change policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 8.1.4": {
+    "rule": "Documents Changes: A process is in place to document system changes to support ongoing maintenance of the system and to support system users in performing their responsibilities. ",
+    "type": "Item",
+    "evidence": [
+      "List of all infrastructure changes from the review period"
+    ],
+    "required": true
+  },
+  "CC 8.1.5": {
+    "rule": "Tracks System Changes: A process is in place to track system changes prior to implementation. ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of current ticket management system",
+      "Screenshot or system generated list of changes to all in-scope application development programs duriing the review period"
+    ],
+    "required": true
+  },
+  "CC 8.1.6": {
+    "rule": "Configures Software: A process is in place to select and implement the configuration parameters used to control the functionality of software. ",
+    "type": "Item",
+    "evidence": [
+      "Current software development lifecycle policies and/or processes "
+    ],
+    "required": true
+  },
+  "CC 8.1.7": {
+    "rule": "Tests System Changes: A process is in place to test system changes prior to implementation. ",
+    "type": "Item",
+    "evidence": [
+      "Current quality assurance testing processes"
+    ],
+    "required": true
+  },
+  "CC 8.1.8": {
+    "rule": "Approves System Changes: A process is in place to approve system changes prior to implementation.  ",
+    "type": "Item",
+    "evidence": [
+      "Policies and/or processes to verify all change requests are authorized, tested, approved, and documented"
+    ],
+    "required": true
+  },
+  "CC 8.1.9": {
+    "rule": "Deploys System Changes: A process is in place to implement system changes.",
+    "type": "Item",
+    "evidence": [
+      "Current list of authorized personnel for software and system changes to the production environment"
+    ],
+    "required": true
+  },
+  "CC 8.1.10": {
+    "rule": "Identifies and Evaluates System Changes: Objectives affected by system changes are identified, and the ability of the modified system to meet the objectives is evaluated throughout the system development life cycle.",
+    "type": "Item",
+    "evidence": [
+      "Change management and system development policies, procedures, and process"
+    ],
+    "required": true
+  },
+  "CC 8.1.11": {
+    "rule": "Identifies Changes in Infrastructure, Data, Software, and Procedures Required to Remediate Incidents: Changes in infrastructure, data, software, and procedures required to remediate incidents to continue to meet objectives are identified, and the change process is initiated upon identification. ",
+    "type": "Item",
+    "evidence": [
+      "List of all infrastructure changes performed during the review period"
+    ],
+    "required": true
+  },
+  "CC 8.1.12": {
+    "rule": "Creates Baseline Configuration of IT Technology: A baseline configuration of IT and control systems is created and maintained.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of baseline configurations repository"
+    ],
+    "required": true
+  },
+  "CC 8.1.13": {
+    "rule": "Provides for Changes Necessary in Emergency Situations: A process is in place for authorizing, designing, testing, approving and implementing changes necessary in emergency situations. ",
+    "type": "Item",
+    "evidence": [
+      "Current emergency change management policy and/or processes"
+    ],
+    "required": true
+  },
+  "CC 8.1.14": {
+    "rule": "Protects Confidential Information: The organization protects confidential information during system design, development, testing, implementation, and change processes to meet the organization's objectives related to confidentiality.  ",
+    "type": "Item",
+    "evidence": [
+      "Current network diagram or separate virtual isntances showing separate environments for production, testing, and development"
+    ],
+    "required": true
+  },
+  "CC 8.1.15": {
+    "rule": "Protects Personal Information: The organization protects personal information during system design, development, testing, implementation, and change processes to meet the organization's objectives related to privacy.  ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot or system-generated list of user and admins with access to development, testing, and production environments. "
+    ],
+    "required": true
+  },
+  "CC 9.1": {
+    "rule": "The organization identifies, selects, and develops risk mitigation activities for risks arising from potential business disruptions. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 9.1.1": {
+    "rule": "Considers Mitigation of Risks of Business Disruption: Risk mitigation activities include the development of planned policies, procedures, communications, and alternative processing solutions to respond to, mitigate, and recover from security events that disrupt business operations. Those policies and procedures include monitoring processes and information and communications to meet the organization's objectives during response, mitigation, and recovery efforts.  ",
+    "type": "Item",
+    "evidence": [
+      "Current risk assessment"
+    ],
+    "required": true
+  },
+  "CC 9.1.2": {
+    "rule": "Considers the Use of Insurance to Mitigate Financial Impact Risks: The risk management activities consider the use of insurance to offset the financial impact of loss events that would otherwise impair the ability of the organization to meet its objectives.",
+    "type": "Item",
+    "evidence": [
+      "Current insurance policies"
+    ],
+    "required": true
+  },
+  "CC 9.2": {
+    "rule": "The organization assesses and manages risks associated with vendors and business partners. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "CC 9.2.1": {
+    "rule": "Establishes Requirements for Vendor and Business Partner Engagements: The organization establishes specific requirements for a vendor and business partner engagement that includes: 1. Scope of services and product specifications;2. Roles and responsibilities;3. Compliance requirements;4. Service levels",
+    "type": "Item",
+    "evidence": [
+      "Current vendor management policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 9.2.2": {
+    "rule": "Assesses Vendor and Business Partner Risks: The organization assesses, on a periodic basis, the risks that vendors and business partners represent to the achievement of the organization's objectives.  ",
+    "type": "Item",
+    "evidence": [
+      "Current vendor risk assessment, conducted within the review period"
+    ],
+    "required": true
+  },
+  "CC 9.2.3": {
+    "rule": "Assigns Responsibility and Accountability for Managing Vendors and Business Partners: The organization assigns responsibility and accountability for the management of risks associated with vendors and business partners. ",
+    "type": "Item",
+    "evidence": [
+      "List of authorized personnel assigned to manage vendor risks"
+    ],
+    "required": true
+  },
+  "CC 9.2.4": {
+    "rule": "Establishes Communication Protocols for Vendors and Business Partners: The organization establishes communication and resolution protocols for service or product issues related to vendors and business partners.  ",
+    "type": "Item",
+    "evidence": [
+      "Current vendor management policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 9.2.5": {
+    "rule": "Establishes Exception Handling Procedures From Vendors and Business Partners: The organization establishes exception handling procedures for service or product issues related to vendors and business partners. ",
+    "type": "Item",
+    "evidence": [
+      "Current vendor management policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 9.2.6": {
+    "rule": "Assesses Vendor and Business Partner Performance: The organization periodically assesses the performance of vendors and business partners. ",
+    "type": "Item",
+    "evidence": [
+      "Third-party attestation reports for all key vendors (SOC 2, ISO 27001, PCI DSS) and management reviews of the reports"
+    ],
+    "required": true
+  },
+  "CC 9.2.7": {
+    "rule": "Implements Procedures for Addressing Issues Identified During Vendor and Business Partner Assessments: The organization implements procedures for addressing issues identified with vendor and business partner relationships.   ",
+    "type": "Item",
+    "evidence": [
+      "Current vendor management policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 9.2.8": {
+    "rule": "Implements Procedures for Terminating Vendor and Business Partner Relationships: The organization implements procedures for terminating vendor and business partner relationships.",
+    "type": "Item",
+    "evidence": [
+      "Current vendor management policies and/or processes"
+    ],
+    "required": true
+  },
+  "CC 9.2.9": {
+    "rule": "Obtains Confidentiality Commitments from Vendors and Business Partners: The organization obtains confidentiality commitments that are consistent with the organization's confidentiality commitments and requirements from vendors and business partners who have access to confidential information. ",
+    "type": "Item",
+    "evidence": [
+      "5 SLAs or MSAs communicating commitments to customers and internal/external users"
+    ],
+    "required": true
+  },
+  "CC 9.2.10": {
+    "rule": "Assesses Compliance With Confidentiality Commitments of Vendors and Business Partners: On a periodic and as-needed basis, the organization assesses compliance by vendors and business partners with the organization's confidentiality commitments and requirements. ",
+    "type": "Item",
+    "evidence": [
+      "Third-party attestation reports for all key vendors (SOC 2, ISO 27001, PCI DSS) and management reviews of the reports"
+    ],
+    "required": true
+  },
+  "CC 9.2.11": {
+    "rule": "Obtains Privacy Commitments from Vendors and Business Partners: The organization obtains privacy commitments, consistent with the organization's privacy commitments and requirements, from vendors and business partners who have access to personal information. ",
+    "type": "Item",
+    "evidence": [
+      "5 SLAs or MSAs communicating commitments to customers and internal/external users"
+    ],
+    "required": true
+  },
+  "CC 9.2.12": {
+    "rule": "Assesses Compliance with Privacy Commitments of Vendors and Business Partners: On a periodic and as-needed basis, the organization assesses compliance by vendors and business partners with the organization's privacy commitments and requirements and takes corrective action as necessary.",
+    "type": "Item",
+    "evidence": [
+      "Third-party attestation reports for all key vendors (SOC 2, ISO 27001, PCI DSS) and management reviews of the reports"
+    ],
+    "required": true
+  },
+  "A 1.1": {
+    "rule": "The organization maintains, monitors, and evaluates current processing capacity and use of system components (infrastructure, data, and software) to manage capacity demand and to enable the implementation of additional capacity to help meet its objectives. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "A 1.1.1": {
+    "rule": "Measures Current Usage: The use of the system components is measured to establish a baseline for capacity management and to use when evaluating the risk of impaired availability due to capacity constraints. ",
+    "type": "Item",
+    "evidence": [
+      "Name and current version of capacity monitoring system"
+    ],
+    "required": true
+  },
+  "A 1.1.2": {
+    "rule": "Forecasts Capacity: The expected average and peak use of system components is forecasted and compared to system capacity and associated tolerances. Forecasting considers capacity in the event of the failure of system components that constrain capacity. ",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of current capacity monitoring and alerts settings",
+      " screenshot of authorized personnel who receive emails, notifications, and/or alerts"
+    ],
+    "required": true
+  },
+  "A 1.1.3": {
+    "rule": "Makes Changes Based on Forecasts: The system change management process is initiated when forecasted usage exceeds capacity tolerances. ",
+    "type": "Item",
+    "evidence": [
+      "Current network monitoring policy and/or processes"
+    ],
+    "required": true
+  },
+  "A 1.2": {
+    "rule": "The organization authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data back-up processes, and recovery infrastructure to meet its objectives.  ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "A 1.2.1": {
+    "rule": "Identifies Environmental Threats: As part of the risk assessment process, management identifies environmental threats that could impair the availability of the system, including threats resulting from adverse weather, failure of environmental control systems, electrical discharge, fire, and water.  ",
+    "type": "Item",
+    "evidence": [
+      "Current environmental safeguards policy and/or processes"
+    ],
+    "required": true
+  },
+  "A 1.2.2": {
+    "rule": "Designs Detection Measures: Detection measures are implemented to identify anomalies that could result from environmental threat events. ",
+    "type": "Item",
+    "evidence": [
+      "Current environmental safeguards in place, including smoke detectors, sprinkler systems, temperature monitroing, backup generators, etc. "
+    ],
+    "required": true
+  },
+  "A 1.2.3": {
+    "rule": "Implements and Maintains Environmental Protection Mechanisms: Management implements and maintains environmental protection mechanisms to prevent and mitigate against environmental events.  ",
+    "type": "Item",
+    "evidence": [
+      "Most recent inspection or maintenance reports for fire, HVAC, and generators",
+      " photograph of current fire extinguisher inspection tags"
+    ],
+    "required": true
+  },
+  "A 1.2.4": {
+    "rule": "Implements Alerts to Analyze Anomalies: Management implements alerts that are communicated to personnel for analysis to identify environmental threat events.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of current capacity monitoring and alerts settings",
+      " screenshot of authorized personnel who receive emails, notifications, and/or alerts"
+    ],
+    "required": true
+  },
+  "A 1.2.5": {
+    "rule": "Responds to Environmental Threat Events: Procedures are in place for responding to environmental threat events and for evaluating the effectiveness of those policies and procedures on a periodic basis. This includes automatic mitigation systems (for example, uninterruptable power system and generator back-up subsystem).",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of environmental monitoring system software control panel",
+      " system alerts generated within the review period "
+    ],
+    "required": true
+  },
+  "A 1.2.6": {
+    "rule": "Communicates and Reviews Detected Environmental Threat Events: Detected environmental threat events are communicated to and reviewed by the individuals responsible for the management of the system, and actions are taken, if necessary.",
+    "type": "Item",
+    "evidence": [
+      "Screenshot of environmental monitoring system software control panel",
+      " system alerts generated within the review period "
+    ],
+    "required": true
+  },
+  "A 1.2.7": {
+    "rule": "Determines Data Requiring Backup: Data is evaluated to determine whether backup is required. ",
+    "type": "Item",
+    "evidence": [
+      "Current list of data and critical system fiiles that are backed up and the backup frequency"
+    ],
+    "required": true
+  },
+  "A 1.2.8": {
+    "rule": "Performs Data Backup: Procedures are in place for backing up data, monitoring to detect back-up failures, and initiating corrective action when such failures occur. ",
+    "type": "Item",
+    "evidence": [
+      "Current backup policies and/or processes"
+    ],
+    "required": true
+  },
+  "A 1.2.9": {
+    "rule": "Addresses Offsite Storage: Back-up data is stored in a location at a distance from its principal storage location sufficient that the likelihood of a security or environmental threat event affecting both sets of data is reduced to an appropriate level.  ",
+    "type": "Item",
+    "evidence": [
+      "Description of offsite backup location and configuration"
+    ],
+    "required": true
+  },
+  "A 1.2.10": {
+    "rule": "Implements Alternate Processing Infrastructure: Measures are implemented for migrating processing to alternate infrastructure in the event normal processing infrastructure becomes unavailable.  ",
+    "type": "Item",
+    "evidence": [
+      "Current disaster recovery and/or business continuity plan"
+    ],
+    "required": true
+  },
+  "A 1.3": {
+    "rule": "The organization tests recovery plan procedures supporting system recovery to meet its objectives.  ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "A 1.3.1": {
+    "rule": "Implements Business Continuity Plan Testing: Business continuity plan testing is performed on a periodic basis. The testing includes: 1. Development of testing scenarios based on threat likelihood and magnitude ;2. Consideration of system components from across the entity that can impair the availability ;3. Scenarios that consider the potential for the lack of availability of key personnel ;4. Revision of continuity plans and systems based on test results",
+    "type": "Item",
+    "evidence": [
+      "Annual disaster recovery/business continuity plan testing results (dated within the last 12 months)"
+    ],
+    "required": true
+  },
+  "A 1.3.2": {
+    "rule": "Tests Integrity and Completeness of Back-Up Data: The integrity and completeness of back-up information is tested on a periodic basis. ",
+    "type": "Item",
+    "evidence": [
+      "Quarterly backup integrity testing"
+    ],
+    "required": true
+  },
+  "C 1.1": {
+    "rule": "The organization identifies and maintains confidential information to meet the organization's objectives related to confidentiality. ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "C 1.1.1": {
+    "rule": "Identifies Confidential information: Procedures are in place to identify and designate confidential information when it is received or created and to determine the period over which the confidential information is to be retained.",
+    "type": "Item",
+    "evidence": [
+      "Current data classification policy and/or processes"
+    ],
+    "required": true
+  },
+  "C 1.1.2": {
+    "rule": "Protects Confidential Information from Destruction: Procedures are in place to protect confidential information from erasure or destruction during the specified retention period of the information. ",
+    "type": "Item",
+    "evidence": [
+      "Current data protection policy and/or processes"
+    ],
+    "required": true
+  },
+  "C 1.2": {
+    "rule": "The organization disposes of confidential information to meet the organization's objectives related to confidentiality.  ",
+    "type": "Category",
+    "evidence": null,
+    "required": false
+  },
+  "C 1.2.1": {
+    "rule": "Identifies Confidential Information for Destruction: Procedures are in place to identify confidential information requiring destruction when the end of the retention period is reached. ",
+    "type": "Item",
+    "evidence": [
+      "Current data retention policy and/or processes"
+    ],
+    "required": true
+  },
+  "C 1.2.2": {
+    "rule": "Destroys Confidential Information: Procedures are in place to erase or otherwise destroy confidential information that has been identified for destruction.",
+    "type": "Item",
+    "evidence": [
+      "Current data disposal policy and/or processes"
+    ],
+    "required": true
+  }
 }
