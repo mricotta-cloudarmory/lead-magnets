@@ -1,0 +1,146 @@
+{
+  "A.5": {
+    "rule": "Organizational Controls Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "A.5.1": {
+    "rule": "Organizational Controls Control 1: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Organizational Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.5.2": {
+    "rule": "Organizational Controls Control 2: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Organizational Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.5.3": {
+    "rule": "Organizational Controls Control 3: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Organizational Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.6": {
+    "rule": "People Controls Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "A.6.1": {
+    "rule": "People Controls Control 1: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "People Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.6.2": {
+    "rule": "People Controls Control 2: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "People Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.6.3": {
+    "rule": "People Controls Control 3: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "People Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.7": {
+    "rule": "Physical Controls Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "A.7.1": {
+    "rule": "Physical Controls Control 1: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Physical Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.7.2": {
+    "rule": "Physical Controls Control 2: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Physical Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.7.3": {
+    "rule": "Physical Controls Control 3: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Physical Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.8": {
+    "rule": "Technological Controls Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "A.8.1": {
+    "rule": "Technological Controls Control 1: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Technological Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.8.2": {
+    "rule": "Technological Controls Control 2: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Technological Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  },
+  "A.8.3": {
+    "rule": "Technological Controls Control 3: Specific guidance or objective.",
+    "type": "Item",
+    "evidence": [
+      "Technological Controls policies",
+      "Risk assessments",
+      "Access control settings"
+    ],
+    "required": true
+  }
+}

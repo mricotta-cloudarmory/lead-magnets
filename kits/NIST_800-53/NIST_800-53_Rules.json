@@ -1,0 +1,362 @@
+{
+  "AC": {
+    "rule": "Access Control Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "AC-1": {
+    "rule": "Access Control Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Access Control policy",
+      "System access logs",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "AC-2": {
+    "rule": "Access Control Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Access Control policy",
+      "System access logs",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "AC-3": {
+    "rule": "Access Control Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Access Control policy",
+      "System access logs",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "AU": {
+    "rule": "Audit and Accountability Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "AU-1": {
+    "rule": "Audit and Accountability Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Audit and Accountability policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "AU-2": {
+    "rule": "Audit and Accountability Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Audit and Accountability policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "AU-3": {
+    "rule": "Audit and Accountability Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Audit and Accountability policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "IA": {
+    "rule": "Identification and Authentication Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "IA-1": {
+    "rule": "Identification and Authentication Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Identification and Authentication policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "IA-2": {
+    "rule": "Identification and Authentication Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Identification and Authentication policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "IA-3": {
+    "rule": "Identification and Authentication Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Identification and Authentication policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "IR": {
+    "rule": "Incident Response Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "IR-1": {
+    "rule": "Incident Response Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Incident Response policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "IR-2": {
+    "rule": "Incident Response Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Incident Response policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "IR-3": {
+    "rule": "Incident Response Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Incident Response policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "MA": {
+    "rule": "System Maintenance Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "MA-1": {
+    "rule": "System Maintenance Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System Maintenance policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "MA-2": {
+    "rule": "System Maintenance Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System Maintenance policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "MA-3": {
+    "rule": "System Maintenance Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System Maintenance policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "PL": {
+    "rule": "Planning Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "PL-1": {
+    "rule": "Planning Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Planning policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "PL-2": {
+    "rule": "Planning Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Planning policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "PL-3": {
+    "rule": "Planning Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Planning policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "RA": {
+    "rule": "Risk Assessment Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "RA-1": {
+    "rule": "Risk Assessment Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Risk Assessment policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "RA-2": {
+    "rule": "Risk Assessment Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Risk Assessment policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "RA-3": {
+    "rule": "Risk Assessment Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Risk Assessment policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "SC": {
+    "rule": "System and Communications Protection Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "SC-1": {
+    "rule": "System and Communications Protection Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System and Communications Protection policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "SC-2": {
+    "rule": "System and Communications Protection Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System and Communications Protection policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "SC-3": {
+    "rule": "System and Communications Protection Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System and Communications Protection policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "SI": {
+    "rule": "System and Information Integrity Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "SI-1": {
+    "rule": "System and Information Integrity Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System and Information Integrity policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "SI-2": {
+    "rule": "System and Information Integrity Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System and Information Integrity policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "SI-3": {
+    "rule": "System and Information Integrity Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "System and Information Integrity policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "PE": {
+    "rule": "Physical and Environmental Protection Control Family",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "PE-1": {
+    "rule": "Physical and Environmental Protection Control 1: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Physical and Environmental Protection policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "PE-2": {
+    "rule": "Physical and Environmental Protection Control 2: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Physical and Environmental Protection policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  },
+  "PE-3": {
+    "rule": "Physical and Environmental Protection Control 3: Description of control purpose and implementation.",
+    "type": "Item",
+    "evidence": [
+      "Physical and Environmental Protection policy",
+      "Configuration documentation",
+      "Staff training records"
+    ],
+    "required": true
+  }
+}

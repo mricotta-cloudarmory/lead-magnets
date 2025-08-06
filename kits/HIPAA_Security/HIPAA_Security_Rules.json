@@ -1,0 +1,146 @@
+{
+  "\u00a7164.308": {
+    "rule": "Administrative Safeguards Section",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a7164.308(1)": {
+    "rule": "Administrative Safeguards Control 1: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Administrative Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.308(2)": {
+    "rule": "Administrative Safeguards Control 2: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Administrative Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.308(3)": {
+    "rule": "Administrative Safeguards Control 3: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Administrative Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.310": {
+    "rule": "Physical Safeguards Section",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a7164.310(1)": {
+    "rule": "Physical Safeguards Control 1: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Physical Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.310(2)": {
+    "rule": "Physical Safeguards Control 2: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Physical Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.310(3)": {
+    "rule": "Physical Safeguards Control 3: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Physical Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.312": {
+    "rule": "Technical Safeguards Section",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a7164.312(1)": {
+    "rule": "Technical Safeguards Control 1: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Technical Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.312(2)": {
+    "rule": "Technical Safeguards Control 2: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Technical Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.312(3)": {
+    "rule": "Technical Safeguards Control 3: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Technical Safeguards procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.316": {
+    "rule": "Policies and Documentation Requirements Section",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a7164.316(1)": {
+    "rule": "Policies and Documentation Requirements Control 1: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Policies and Documentation Requirements procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.316(2)": {
+    "rule": "Policies and Documentation Requirements Control 2: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Policies and Documentation Requirements procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  },
+  "\u00a7164.316(3)": {
+    "rule": "Policies and Documentation Requirements Control 3: Implementations or requirements.",
+    "type": "Item",
+    "evidence": [
+      "Policies and Documentation Requirements procedures",
+      "Audit logs",
+      "Access control reports"
+    ],
+    "required": true
+  }
+}

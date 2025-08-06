@@ -1,0 +1,184 @@
+{
+  "\u00a711.11.10": {
+    "rule": "Controls for Closed Systems",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a711.11.10(1)": {
+    "rule": "Controls for Closed Systems Point 1: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Controls for Closed Systems procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.10(2)": {
+    "rule": "Controls for Closed Systems Point 2: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Controls for Closed Systems procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.30": {
+    "rule": "Controls for Open Systems",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a711.11.30(1)": {
+    "rule": "Controls for Open Systems Point 1: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Controls for Open Systems procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.30(2)": {
+    "rule": "Controls for Open Systems Point 2: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Controls for Open Systems procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.50": {
+    "rule": "Signature Manifestations",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a711.11.50(1)": {
+    "rule": "Signature Manifestations Point 1: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Signature Manifestations procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.50(2)": {
+    "rule": "Signature Manifestations Point 2: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Signature Manifestations procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.70": {
+    "rule": "Signature/Record Linking",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a711.11.70(1)": {
+    "rule": "Signature/Record Linking Point 1: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Signature/Record Linking procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.70(2)": {
+    "rule": "Signature/Record Linking Point 2: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Signature/Record Linking procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.100": {
+    "rule": "General Requirements for Electronic Signatures",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a711.11.100(1)": {
+    "rule": "General Requirements for Electronic Signatures Point 1: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "General Requirements for Electronic Signatures procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.100(2)": {
+    "rule": "General Requirements for Electronic Signatures Point 2: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "General Requirements for Electronic Signatures procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.200": {
+    "rule": "Electronic Signature Components and Controls",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a711.11.200(1)": {
+    "rule": "Electronic Signature Components and Controls Point 1: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Electronic Signature Components and Controls procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.200(2)": {
+    "rule": "Electronic Signature Components and Controls Point 2: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Electronic Signature Components and Controls procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.300": {
+    "rule": "Controls for Identification Codes / Passwords",
+    "type": "Category",
+    "evidence": null,
+    "required": true
+  },
+  "\u00a711.11.300(1)": {
+    "rule": "Controls for Identification Codes / Passwords Point 1: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Controls for Identification Codes / Passwords procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  },
+  "\u00a711.11.300(2)": {
+    "rule": "Controls for Identification Codes / Passwords Point 2: Key implementation detail.",
+    "type": "Item",
+    "evidence": [
+      "Controls for Identification Codes / Passwords procedures",
+      "Audit trail examples",
+      "Access logs"
+    ],
+    "required": true
+  }
+}
