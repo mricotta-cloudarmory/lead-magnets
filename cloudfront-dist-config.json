@@ -1,0 +1,28 @@
+{
+  "CallerReference": "lead-magnets-20250819135843",
+  "Comment": "Downloads for lead magnets (PDF/ZIP)",
+  "Origins": {
+    "Items": [
+      {
+        "Id": "s3-cloud-armory-lead-magnets",
+        "DomainName": "cloud-armory-lead-magnets.s3.us-east-2.amazonaws.com",
+        "S3OriginConfig": { "OriginAccessIdentity": "" },
+        "OriginAccessControlId": "E1E0J49FW56E5L"
+      }
+    ],
+    "Quantity": 1
+  },
+  "DefaultCacheBehavior": {
+    "TargetOriginId": "s3-cloud-armory-lead-magnets",
+    "ViewerProtocolPolicy": "redirect-to-https",
+    "AllowedMethods": {
+      "Items": ["GET","HEAD"],
+      "Quantity": 2
+    },
+    "Compress": true,
+    "CachePolicyId": "658327ea-f89d-4fab-a63d-7e88639e58f6",
+    "OriginRequestPolicyId": "88a5eaf4-2fd4-4709-b370-b4c650ea3fcf"
+  },
+  "Enabled": true,
+  "PriceClass": "PriceClass_100"
+}

@@ -2,6 +2,28 @@
 
 Lead magnets are downloadable packages used by our lead gen forms.  Traditionally these have been "whitepapers" but they can be packages or executables as well.
 
+## CLI Configuration
+
+In order to use the IaC and Deployment (CI/CD) scripts, you'll need to configure AWS CLI on a Windows machine (ie. via Git Bash).
+
+You should store your AWS ID/SECRET Key pair to a profile called "landingpage"
+
+### IaC
+
+To build the S3 bucket and CloudFront distribution (one time):
+
+$ ./IaC.sh
+
+### CI/CD
+
+To deploy your kits to the S3 bucket:
+
+$ ./deploy.sh
+
+1. Zips all folders in "kits" directory
+2. Uploads them to S3 and deletes old files
+3. Invalidates CloudFront distribution cache
+
 ## Setup
 
 To set up a lead magnet on the corporate website, follow these steps:
@@ -16,8 +38,14 @@ To set up a lead magnet on the corporate website, follow these steps:
 5. Scroll down to "Add New Custom Field" and in the dropdown, select "Whitepaper" then paste your package URL (per step 3 above)
 6. Confirm on the right-sidebar that your page has the "Lead Gen" template assigned.
 7. Publish / Update
+8. Now change to the "landing-serverless" source repository (repository for ATLA and freesecuritycompliance.org" and update the links in the src/config.json file for the respective framework (key) and kit URL (step 3) pairing.
 
 *Atop the page you'll see the "permalink" which you can click to visit the page directly*
+
+## CI/CD
+
+Kits are stored in an S3 bucket which is referenced by the freesecuritycompliance.org website via the config.json file.
+
 
 ### Lead Gen Forms
 
@@ -61,9 +89,6 @@ To build a kit, follow these steps AFTER you run a Git Pull (always Git pull bef
 6. Clone the README.docx from another kit, update the language and then export it as PDF
 7. Download the kit package, remove the docx file, then zip it and upload it to your lead magnets directory.  Follow the Setup & Lead Gen steps above.
 8. Commit and push your changes
-
-#### NOTE: I would like to move kit storage to S3 via Jenkins pipeline build (git actions).  I want it automated (ci/cd), so Jenkins should pull on Github actions (push/merge) and upload zip files to S3 on a static URL (not dynamic, we wan't the URL to be the same when the file is uploaded and overwrites the old one)
-
 
 ## Scripts / Executables
 
